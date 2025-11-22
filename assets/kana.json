@@ -1,0 +1,738 @@
+{
+    "hiragana": [
+        {
+            "character": "あ",
+            "reading": "a",
+            "vocabulary1": "あお (aoi - blue)",
+            "vocabularyImage1": "https://example.com/blue.png",
+            "vocabulary2": "ありがとう (arigatō)",
+            "vocabularyImage2": "https://example.com/thankyou.png",
+            "usageExample": "ありがとうございます",
+            "usageExampleImage": "https://example.com/thankyou_scene.png"
+        },
+        {
+            "character": "い",
+            "reading": "i",
+            "vocabulary1": "いぬ (inu - dog)",
+            "vocabularyImage1": "https://example.com/dog.png",
+            "vocabulary2": "いい (ii - good)",
+            "vocabularyImage2": "https://example.com/good.png",
+            "usageExample": "いいですね",
+            "usageExampleImage": "https://example.com/nice.png"
+        },
+        {
+            "character": "う",
+            "reading": "u",
+            "vocabulary1": "うみ (umi - sea)",
+            "vocabularyImage1": "https://example.com/sea.png",
+            "vocabulary2": "うさぎ (usagi - rabbit)",
+            "vocabularyImage2": "https://example.com/rabbit.png",
+            "usageExample": "うみへいきましょう",
+            "usageExampleImage": "https://example.com/beach.png"
+        },
+        {
+            "character": "え",
+            "reading": "e",
+            "vocabulary1": "えき (eki - station)",
+            "vocabularyImage1": "https://example.com/station.png",
+            "vocabulary2": "えんぴつ (enpitsu - pencil)",
+            "vocabularyImage2": "https://example.com/pencil.png",
+            "usageExample": "えきはどこですか",
+            "usageExampleImage": "https://example.com/station_sign.png"
+        },
+        {
+            "character": "お",
+            "reading": "o",
+            "vocabulary1": "おおきい (ōkii - big)",
+            "vocabularyImage1": "https://example.com/big.png",
+            "vocabulary2": "おちゃ (ocha - tea)",
+            "vocabularyImage2": "https://example.com/tea.png",
+            "usageExample": "おちゃをください",
+            "usageExampleImage": "https://example.com/green_tea.png"
+        },
+        {
+            "character": "か",
+            "reading": "ka",
+            "vocabulary1": "かさ (kasa - umbrella)",
+            "vocabularyImage1": "https://example.com/umbrella.png",
+            "vocabulary2": "かぞく (kazoku - family)",
+            "vocabularyImage2": "https://example.com/family.png",
+            "usageExample": "かぞくといっしょ",
+            "usageExampleImage": "https://example.com/family_photo.png"
+        },
+        {
+            "character": "き",
+            "reading": "ki",
+            "vocabulary1": "き (ki - tree)",
+            "vocabularyImage1": "https://example.com/tree.png",
+            "vocabulary2": "きいろ (kiiro - yellow)",
+            "vocabularyImage2": "https://example.com/yellow.png",
+            "usageExample": "きがすきです",
+            "usageExampleImage": "https://example.com/forest.png"
+        },
+        {
+            "character": "く",
+            "reading": "ku",
+            "vocabulary1": "くつ (kutsu - shoes)",
+            "vocabularyImage1": "https://example.com/shoes.png",
+            "vocabulary2": "くも (kumo - cloud/spider)",
+            "vocabularyImage2": "https://example.com/cloud.png",
+            "usageExample": "くもがでています",
+            "usageExampleImage": "https://example.com/cloudy.png"
+        },
+        {
+            "character": "け",
+            "reading": "ke",
+            "vocabulary1": "けしゴム (keshigomu - eraser)",
+            "vocabularyImage1": "https://example.com/eraser.png",
+            "vocabulary2": "けっこん (kekkon - marriage)",
+            "vocabularyImage2": "https://example.com/wedding.png",
+            "usageExample": "けっこんおめでとう",
+            "usageExampleImage": "https://example.com/wedding_rings.png"
+        },
+        {
+            "character": "こ",
+            "reading": "ko",
+            "vocabulary1": "こども (kodomo - child)",
+            "vocabularyImage1": "https://example.com/child.png",
+            "vocabulary2": "これ (kore - this)",
+            "vocabularyImage2": "https://example.com/this.png",
+            "usageExample": "これをかいてください",
+            "usageExampleImage": "https://example.com/pointing.png"
+        },
+        {
+            "character": "さ",
+            "reading": "sa",
+            "vocabulary1": "さかな (sakana - fish)",
+            "vocabularyImage1": "https://example.com/fish.png",
+            "vocabulary2": "さくら (sakura - cherry blossom)",
+            "vocabularyImage2": "https://example.com/sakura.png",
+            "usageExample": "さくらがきれいです",
+            "usageExampleImage": "https://example.com/cherry_blossom.png"
+        },
+        {
+            "character": "し",
+            "reading": "shi",
+            "vocabulary1": "しお (shio - salt)",
+            "vocabularyImage1": "https://example.com/salt.png",
+            "vocabulary2": "しんぶん (shinbun - newspaper)",
+            "vocabularyImage2": "https://example.com/newspaper.png",
+            "usageExample": "しんぶんをよむ",
+            "usageExampleImage": "https://example.com/reading_news.png"
+        },
+        {
+            "character": "す",
+            "reading": "su",
+            "vocabulary1": "すし (sushi)",
+            "vocabularyImage1": "https://example.com/sushi.png",
+            "vocabulary2": "すき (suki - like)",
+            "vocabularyImage2": "https://example.com/heart.png",
+            "usageExample": "すしがすきです",
+            "usageExampleImage": "https://example.com/love_sushi.png"
+        },
+        {
+            "character": "せ",
+            "reading": "se",
+            "vocabulary1": "せかい (sekai - world)",
+            "vocabularyImage1": "https://example.com/globe.png",
+            "vocabulary2": "せんせい (sensei - teacher)",
+            "vocabularyImage2": "https://example.com/teacher.png",
+            "usageExample": "せんせい、こんにちは",
+            "usageExampleImage": "https://example.com/classroom.png"
+        },
+        {
+            "character": "そ",
+            "reading": "so",
+            "vocabulary1": "そら (sora - sky)",
+            "vocabularyImage1": "https://example.com/sky.png",
+            "vocabulary2": "そこ (soko - there)",
+            "vocabularyImage2": "https://example.com/there.png",
+            "usageExample": "そらをみて",
+            "usageExampleImage": "https://example.com/looking_up.png"
+        },
+        {
+            "character": "た",
+            "reading": "ta",
+            "vocabulary1": "たべる (taberu - eat)",
+            "vocabularyImage1": "https://example.com/eat.png",
+            "vocabulary2": "たかい (takai - expensive/high)",
+            "vocabularyImage2": "https://example.com/expensive.png",
+            "usageExample": "たかいですね",
+            "usageExampleImage": "https://example.com/shock_price.png"
+        },
+        {
+            "character": "ち",
+            "reading": "chi",
+            "vocabulary1": "ちず (chizu - map)",
+            "vocabularyImage1": "https://example.com/map.png",
+            "vocabulary2": "ちいさい (chiisai - small)",
+            "vocabularyImage2": "https://example.com/small.png",
+            "usageExample": "ちいさいいぬ",
+            "usageExampleImage": "https://example.com/puppy.png"
+        },
+        {
+            "character": "つ",
+            "reading": "tsu",
+            "vocabulary1": "つき (tsuki - moon)",
+            "vocabularyImage1": "https://example.com/moon.png",
+            "vocabulary2": "つける (tsukeru - turn on)",
+            "vocabularyImage2": "https://example.com/light_on.png",
+            "usageExample": "でんきをつけて",
+            "usageExampleImage": "https://example.com/light_switch.png"
+        },
+        {
+            "character": "て",
+            "reading": "te",
+            "vocabulary1": "て (te - hand)",
+            "vocabularyImage1": "https://example.com/hand.png",
+            "vocabulary2": "てがみ (tegami - letter)",
+            "vocabularyImage2": "https://example.com/letter.png",
+            "usageExample": "てがみをください",
+            "usageExampleImage": "https://example.com/mailbox.png"
+        },
+        {
+            "character": "と",
+            "reading": "to",
+            "vocabulary1": "ともだち (tomodachi - friend)",
+            "vocabularyImage1": "https://example.com/friends.png",
+            "vocabulary2": "とり (tori - bird)",
+            "vocabularyImage2": "https://example.com/bird.png",
+            "usageExample": "ともだちといっしょ",
+            "usageExampleImage": "https://example.com/friends_together.png"
+        },
+        {
+            "character": "な",
+            "reading": "na",
+            "vocabulary1": "なまえ (namae - name)",
+            "vocabularyImage1": "https://example.com/name.png",
+            "vocabulary2": "なつ (natsu - summer)",
+            "vocabularyImage2": "https://example.com/summer.png",
+            "usageExample": "なつやすみ",
+            "usageExampleImage": "https://example.com/summer_vacation.png"
+        },
+        {
+            "character": "に",
+            "reading": "ni",
+            "vocabulary1": "にほん (nihon - Japan)",
+            "vocabularyImage1": "https://example.com/japan.png",
+            "vocabulary2": "にく (niku - meat)",
+            "vocabularyImage2": "https://example.com/meat.png",
+            "usageExample": "にほんへようこそ",
+            "usageExampleImage": "https://example.com/welcome_japan.png"
+        },
+        {
+            "character": "ぬ",
+            "reading": "nu",
+            "vocabulary1": "ぬの (nuno - cloth)",
+            "vocabularyImage1": "https://example.com/cloth.png",
+            "vocabulary2": "ぬぐ (nugu - take off)",
+            "vocabularyImage2": "https://example.com/shoes_off.png",
+            "usageExample": "くつをぬぐ",
+            "usageExampleImage": "https://example.com/genkan.png"
+        },
+        {
+            "character": "ね",
+            "reading": "ne",
+            "vocabulary1": "ねこ (neko - cat)",
+            "vocabularyImage1": "https://example.com/cat.png",
+            "vocabulary2": "ねぼう (nebō - oversleep)",
+            "vocabularyImage2": "https://example.com/sleeping.png",
+            "usageExample": "ねこがかわいい",
+            "usageExampleImage": "https://example.com/cute_cat.png"
+        },
+        {
+            "character": "の",
+            "reading": "no",
+            "vocabulary1": "のむ (nomu - drink)",
+            "vocabularyImage1": "https://example.com/drink.png",
+            "vocabulary2": "のり (nori - seaweed/glue)",
+            "vocabularyImage2": "https://example.com/nori.png",
+            "usageExample": "みずをのむ",
+            "usageExampleImage": "https://example.com/water.png"
+        },
+        {
+            "character": "は",
+            "reading": "ha",
+            "vocabulary1": "はな (hana - flower/nose)",
+            "vocabularyImage1": "https://example.com/flower.png",
+            "vocabulary2": "はし (hashi - chopsticks/bridge)",
+            "vocabularyImage2": "https://example.com/chopsticks.png",
+            "usageExample": "はなをみる",
+            "usageExampleImage": "https://example.com/hanami.png"
+        },
+        {
+            "character": "ひ",
+            "reading": "hi",
+            "vocabulary1": "ひかり (hikari - light)",
+            "vocabularyImage1": "https://example.com/light.png",
+            "vocabulary2": "ひま (hima - free time)",
+            "vocabularyImage2": "https://example.com/free_time.png",
+            "usageExample": "ひまがあります",
+            "usageExampleImage": "https://example.com/relax.png"
+        },
+        {
+            "character": "ふ",
+            "reading": "fu",
+            "vocabulary1": "ふね (fune - ship)",
+            "vocabularyImage1": "https://example.com/ship.png",
+            "vocabulary2": "ふゆ (fuyu - winter)",
+            "vocabularyImage2": "https://example.com/winter.png",
+            "usageExample": "ふゆはさむい",
+            "usageExampleImage": "https://example.com/snow.png"
+        },
+        {
+            "character": "へ",
+            "reading": "he",
+            "vocabulary1": "へや (heya - room)",
+            "vocabularyImage1": "https://example.com/room.png",
+            "vocabulary2": "へん (hen - strange)",
+            "vocabularyImage2": "https://example.com/strange.png",
+            "usageExample": "へやにかえる",
+            "usageExampleImage": "https://example.com/home.png"
+        },
+        {
+            "character": "ほ",
+            "reading": "ho",
+            "vocabulary1": "ほん (hon - book)",
+            "vocabularyImage1": "https://example.com/book.png",
+            "vocabulary2": "ほし (hoshi - star)",
+            "vocabularyImage2": "https://example.com/star.png",
+            "usageExample": "ほんをよむ",
+            "usageExampleImage": "https://example.com/reading_book.png"
+        },
+        {
+            "character": "ま",
+            "reading": "ma",
+            "vocabulary1": "まど (mado - window)",
+            "vocabularyImage1": "https://example.com/window.png",
+            "vocabulary2": "まち (machi - town)",
+            "vocabularyImage2": "https://example.com/town.png",
+            "usageExample": "まちをあるく",
+            "usageExampleImage": "https://example.com/walking_town.png"
+        },
+        {
+            "character": "み",
+            "reading": "mi",
+            "vocabulary1": "みず (mizu - water)",
+            "vocabularyImage1": "https://example.com/water.png",
+            "vocabulary2": "みる (miru - watch/see)",
+            "vocabularyImage2": "https://example.com/eyes.png",
+            "usageExample": "みずをお願いします",
+            "usageExampleImage": "https://example.com/water_glass.png"
+        },
+        {
+            "character": "む",
+            "reading": "mu",
+            "vocabulary1": "むし (mushi - insect)",
+            "vocabularyImage1": "https://example.com/insect.png",
+            "vocabulary2": "むずかしい (muzukashii - difficult)",
+            "vocabularyImage2": "https://example.com/hard.png",
+            "usageExample": "にほんごはむずかしい",
+            "usageExampleImage": "https://example.com/studying.png"
+        },
+        {
+            "character": "め",
+            "reading": "me",
+            "vocabulary1": "め (me - eye)",
+            "vocabularyImage1": "https://example.com/eye.png",
+            "vocabulary2": "めがね (megane - glasses)",
+            "vocabularyImage2": "https://example.com/glasses.png",
+            "usageExample": "めがねをかけます",
+            "usageExampleImage": "https://example.com/wearing_glasses.png"
+        },
+        {
+            "character": "も",
+            "reading": "mo",
+            "vocabulary1": "もくようび (mokuyōbi - Thursday)",
+            "vocabularyImage1": "https://example.com/thursday.png",
+            "vocabulary2": "もの (mono - thing)",
+            "vocabularyImage2": "https://example.com/thing.png",
+            "usageExample": "これもください",
+            "usageExampleImage": "https://example.com/shopping.png"
+        },
+        {
+            "character": "や",
+            "reading": "ya",
+            "vocabulary1": "やま (yama - mountain)",
+            "vocabularyImage1": "https://example.com/mountain.png",
+            "vocabulary2": "やさい (yasai - vegetable)",
+            "vocabularyImage2": "https://example.com/vegetables.png",
+            "usageExample": "ふじさん (Mount Fuji)",
+            "usageExampleImage": "https://example.com/fuji.png"
+        },
+        {
+            "character": "ゆ",
+            "reading": "yu",
+            "vocabulary1": "ゆき (yuki - snow)",
+            "vocabularyImage1": "https://example.com/snow.png",
+            "vocabulary2": "ゆめ (yume - dream)",
+            "vocabularyImage2": "https://example.com/dream.png",
+            "usageExample": "ゆめをみる",
+            "usageExampleImage": "https://example.com/sleeping_dream.png"
+        },
+        {
+            "character": "よ",
+            "reading": "yo",
+            "vocabulary1": "よる (yoru - night)",
+            "vocabularyImage1": "https://example.com/night.png",
+            "vocabulary2": "よい (yoi/yoshi - good)",
+            "vocabularyImage2": "https://example.com/good.png",
+            "usageExample": "よいゆめを",
+            "usageExampleImage": "https://example.com/good_night.png"
+        },
+        {
+            "character": "ら",
+            "reading": "ra",
+            "vocabulary1": "らいねん (rainin - next year)",
+            "vocabularyImage1": "https://example.com/next_year.png",
+            "vocabulary2": "ラジオ (rajio - radio)",
+            "vocabularyImage2": "https://example.com/radio.png",
+            "usageExample": "らいねんまたね",
+            "usageExampleImage": "https://example.com/calendar.png"
+        },
+        {
+            "character": "り",
+            "reading": "ri",
+            "vocabulary1": "りんご (ringo - apple)",
+            "vocabularyImage1": "https://example.com/apple.png",
+            "vocabulary2": "りっぱ (rippa - splendid)",
+            "vocabularyImage2": "https://example.com/great.png",
+            "usageExample": "りんごはおいしい",
+            "usageExampleImage": "https://example.com/eating_apple.png"
+        },
+        {
+            "character": "る",
+            "reading": "ru",
+            "vocabulary1": "ルール (rūru - rule)",
+            "vocabularyImage1": "https://example.com/rule.png",
+            "vocabulary2": "るす (rusu - away from home)",
+            "vocabularyImage2": "https://example.com/away.png",
+            "usageExample": "いまるすです",
+            "usageExampleImage": "https://example.com/empty_house.png"
+        },
+        {
+            "character": "れ",
+            "reading": "re",
+            "vocabulary1": "れい (rei - zero/cold)",
+            "vocabularyImage1": "https://example.com/zero.png",
+            "vocabulary2": "れきし (rekishi - history)",
+            "vocabularyImage2": "https://example.com/history.png",
+            "usageExample": "れいぞうこ (refrigerator)",
+            "usageExampleImage": "https://example.com/fridge.png"
+        },
+        {
+            "character": "ろ",
+            "reading": "ro",
+            "vocabulary1": "ろシア (Roshia - Russia)",
+            "vocabularyImage1": "https://example.com/russia.png",
+            "vocabulary2": "ろく (roku - six)",
+            "vocabularyImage2": "https://example.com/six.png",
+            "usageExample": "ろくじ (6 o'clock)",
+            "usageExampleImage": "https://example.com/clock6.png"
+        },
+        {
+            "character": "わ",
+            "reading": "wa",
+            "vocabulary1": "わかい (wakai - young)",
+            "vocabularyImage1": "https://example.com/young.png",
+            "vocabulary2": "わすれる (wasureru - forget)",
+            "vocabularyImage2": "https://example.com/forget.png",
+            "usageExample": "わすれないで",
+            "usageExampleImage": "https://example.com/remember.png"
+        },
+        {
+            "character": "を",
+            "reading": "wo",
+            "vocabulary1": "を (particle)",
+            "vocabularyImage1": "https://example.com/particle.png",
+            "vocabulary2": "さを (sawo - ? rare)",
+            "vocabularyImage2": "https://example.com/rare.png",
+            "usageExample": "ほんをよむ (read a book)",
+            "usageExampleImage": "https://example.com/reading.png"
+        },
+        {
+            "character": "ん",
+            "reading": "n",
+            "vocabulary1": "こんにちは (konnichiwa)",
+            "vocabularyImage1": "https://example.com/hello.png",
+            "vocabulary2": "げんき (genki - healthy)",
+            "vocabularyImage2": "https://example.com/healthy.png",
+            "usageExample": "げんきですか",
+            "usageExampleImage": "https://example.com/smile.png"
+        },
+        {
+            "character": "が",
+            "reading": "ga",
+            "vocabulary1": "がっこう (gakkō - school)",
+            "vocabularyImage1": "https://example.com/school.png",
+            "vocabulary2": "がす (gasu - gas)",
+            "vocabularyImage2": "https://example.com/gas.png",
+            "usageExample": "がっこうへいく",
+            "usageExampleImage": "https://example.com/school_gate.png"
+        },
+        {
+            "character": "ぎ",
+            "reading": "gi",
+            "vocabulary1": "ぎんこう (ginkō - bank)",
+            "vocabularyImage1": "https://example.com/bank.png",
+            "vocabulary2": "ぎたいご (gitaigo - onomatopoeia)",
+            "vocabularyImage2": "https://example.com/sound.png",
+            "usageExample": "ぎんこうへいきましょう",
+            "usageExampleImage": "https://example.com/bank_building.png"
+        },
+        {
+            "character": "ぐ",
+            "reading": "gu",
+            "vocabulary1": "ぐらむ (guramu - gram)",
+            "vocabularyImage1": "https://example.com/gram.png",
+            "vocabulary2": "ぐあい (guai - condition)",
+            "vocabularyImage2": "https://example.com/health.png",
+            "usageExample": "ぐあいがわるい",
+            "usageExampleImage": "https://example.com/sick.png"
+        },
+        {
+            "character": "げ",
+            "reading": "ge",
+            "vocabulary1": "げんき (genki - healthy)",
+            "vocabularyImage1": "https://example.com/healthy.png",
+            "vocabulary2": "げんかん (genkan - entrance)",
+            "vocabularyImage2": "https://example.com/entrance.png",
+            "usageExample": "げんきですか",
+            "usageExampleImage": "https://example.com/greeting.png"
+        },
+        {
+            "character": "ご",
+            "reading": "go",
+            "vocabulary1": "ごはん (gohan - rice/meal)",
+            "vocabularyImage1": "https://example.com/rice.png",
+            "vocabulary2": "ごろごろ (gorogoro - rumble)",
+            "vocabularyImage2": "https://example.com/thunder.png",
+            "usageExample": "ごはんをたべる",
+            "usageExampleImage": "https://example.com/eating.png"
+        },
+        {
+            "character": "ざ",
+            "reading": "za",
+            "vocabulary1": "ざっし (zasshi - magazine)",
+            "vocabularyImage1": "https://example.com/magazine.png",
+            "vocabulary2": "ざんねん (zannen - regret)",
+            "vocabularyImage2": "https://example.com/sad.png",
+            "usageExample": "ざっしをかう",
+            "usageExampleImage": "https://example.com/bookstore.png"
+        },
+        {
+            "character": "じ",
+            "reading": "ji",
+            "vocabulary1": "じかん (jikan - time)",
+            "vocabularyImage1": "https://example.com/clock.png",
+            "vocabulary2": "じしょ (jisho - dictionary)",
+            "vocabularyImage2": "https://example.com/dictionary.png",
+            "usageExample": "じかんです",
+            "usageExampleImage": "https://example.com/time.png"
+        },
+        {
+            "character": "ず",
+            "reading": "zu",
+            "vocabulary1": "ずかん (zukan - picture book)",
+            "vocabularyImage1": "https://example.com/picture_book.png",
+            "vocabulary2": "ずいぶん (zuibun - quite)",
+            "vocabularyImage2": "https://example.com/surprised.png",
+            "usageExample": "ずいぶんひさしぶり",
+            "usageExampleImage": "https://example.com/long_time.png"
+        },
+        {
+            "character": "ぜ",
+            "reading": "ze",
+            "vocabulary1": "ぜったい (zettai - absolutely)",
+            "vocabularyImage1": "https://example.com/absolute.png",
+            "vocabulary2": "ぜんぶ (zenbu - all)",
+            "vocabularyImage2": "https://example.com/all.png",
+            "usageExample": "ぜったいだいじょうぶ",
+            "usageExampleImage": "https://example.com/ok.png"
+        },
+        {
+            "character": "ぞ",
+            "reading": "zo",
+            "vocabulary1": "ぞう (zō - elephant)",
+            "vocabularyImage1": "https://example.com/elephant.png",
+            "vocabulary2": "ぞくぞく (zokuzoku - shiver)",
+            "vocabularyImage2": "https://example.com/shiver.png",
+            "usageExample": "ぞうがすき",
+            "usageExampleImage": "https://example.com/zoo.png"
+        },
+        {
+            "character": "だ",
+            "reading": "da",
+            "vocabulary1": "だいがく (daigaku - university)",
+            "vocabularyImage1": "https://example.com/university.png",
+            "vocabulary2": "だれ (dare - who)",
+            "vocabularyImage2": "https://example.com/who.png",
+            "usageExample": "だいがくせい",
+            "usageExampleImage": "https://example.com/student.png"
+        },
+        {
+            "character": "ぢ",
+            "reading": "ji",
+            "vocabulary1": "ぢ (rare, same as じ)",
+            "vocabularyImage1": "https://example.com/rare.png",
+            "vocabulary2": "ぢか (close, rare)",
+            "vocabularyImage2": "https://example.com/close.png",
+            "usageExample": "almost never used",
+            "usageExampleImage": "https://example.com/rare_char.png"
+        },
+        {
+            "character": "づ",
+            "reading": "zu",
+            "vocabulary1": "づ (rare, same as ず)",
+            "vocabularyImage1": "https://example.com/rare.png",
+            "vocabulary2": "づけ (pickles, rare)",
+            "vocabularyImage2": "https://example.com/pickles.png",
+            "usageExample": "almost never used",
+            "usageExampleImage": "https://example.com/rare_char.png"
+        },
+        {
+            "character": "で",
+            "reading": "de",
+            "vocabulary1": "でる (deru - go out)",
+            "vocabularyImage1": "https://example.com/exit.png",
+            "vocabulary2": "でんしゃ (densha - train)",
+            "vocabularyImage2": "https://example.com/train.png",
+            "usageExample": "でんしゃにのる",
+            "usageExampleImage": "https://example.com/train_station.png"
+        },
+        {
+            "character": "ど",
+            "reading": "do",
+            "vocabulary1": "どようび (doyōbi - Saturday)",
+            "vocabularyImage1": "https://example.com/saturday.png",
+            "vocabulary2": "どあ (doa - door)",
+            "vocabularyImage2": "https://example.com/door.png",
+            "usageExample": "どようびはやすみ",
+            "usageExampleImage": "https://example.com/weekend.png"
+        },
+        {
+            "character": "ば",
+            "reading": "ba",
+            "vocabulary1": "ばしょ (basho - place)",
+            "vocabularyImage1": "https://example.com/place.png",
+            "vocabulary2": "ばんごう (bangō - number)",
+            "vocabularyImage2": "https://example.com/number.png",
+            "usageExample": "ばしょをおしえて",
+            "usageExampleImage": "https://example.com/map_pointer.png"
+        },
+        {
+            "character": "び",
+            "reading": "bi",
+            "vocabulary1": "びじゅつ (bijutsu - art)",
+            "vocabularyImage1": "https://example.com/art.png",
+            "vocabulary2": "びっくり (bikkuri - surprised)",
+            "vocabularyImage2": "https://example.com/surprised.png",
+            "usageExample": "びっくりした！",
+            "usageExampleImage": "https://example.com/shock.png"
+        },
+        {
+            "character": "ぶ",
+            "reading": "bu",
+            "vocabulary1": "ぶた (buta - pig)",
+            "vocabularyImage1": "https://example.com/pig.png",
+            "vocabulary2": "ぶんしょう (bunshō - sentence)",
+            "vocabularyImage2": "https://example.com/sentence.png",
+            "usageExample": "ぶたさんがかわいい",
+            "usageExampleImage": "https://example.com/cute_pig.png"
+        },
+        {
+            "character": "べ",
+            "reading": "be",
+            "vocabulary1": "べんきょう (benkyō - study)",
+            "vocabularyImage1": "https://example.com/study.png",
+            "vocabulary2": "べつ (betsu - different)",
+            "vocabularyImage2": "https://example.com/different.png",
+            "usageExample": "べんきょうする",
+            "usageExampleImage": "https://example.com/desk.png"
+        },
+        {
+            "character": "ぼ",
+            "reading": "bo",
+            "vocabulary1": "ぼうし (bōshi - hat)",
+            "vocabularyImage1": "https://example.com/hat.png",
+            "vocabulary2": "ぼく (boku - I, male)",
+            "vocabularyImage2": "https://example.com/boy.png",
+            "usageExample": "ぼうしをかぶる",
+            "usageExampleImage": "https://example.com/wearing_hat.png"
+        },
+        {
+            "character": "ぱ",
+            "reading": "pa",
+            "vocabulary1": "ぱん (pan - bread)",
+            "vocabularyImage1": "https://example.com/bread.png",
+            "vocabulary2": "ぱーてぃー (pātī - party)",
+            "vocabularyImage2": "https://example.com/party.png",
+            "usageExample": "ぱんをお願いします",
+            "usageExampleImage": "https://example.com/bakery.png"
+        },
+        {
+            "character": "ぴ",
+            "reading": "pi",
+            "vocabulary1": "ぴあの (piano)",
+            "vocabularyImage1": "https://example.com/piano.png",
+            "vocabulary2": "ぴったり (pittari - exactly)",
+            "vocabularyImage2": "https://example.com/exact.png",
+            "usageExample": "ぴあのをひく",
+            "usageExampleImage": "https://example.com/piano_playing.png"
+        },
+        {
+            "character": "ぷ",
+            "reading": "pu",
+            "vocabulary1": "ぷール (pūru - pool)",
+            "vocabularyImage1": "https://example.com/pool.png",
+            "vocabulary2": "ぷれぜんと (purezento - present)",
+            "vocabularyImage2": "https://example.com/gift.png",
+            "usageExample": "なつはぷール",
+            "usageExampleImage": "https://example.com/swimming.png"
+        },
+        {
+            "character": "ぺ",
+            "reading": "pe",
+            "vocabulary1": "ぺらぺら (perapera - fluent)",
+            "vocabularyImage1": "https://example.com/fluent.png",
+            "vocabulary2": "ぺこぺこ (pekopeko - hungry)",
+            "vocabularyImage2": "https://example.com/hungry.png",
+            "usageExample": "にほんごぺらぺら",
+            "usageExampleImage": "https://example.com/speaking.png"
+        },
+        {
+            "character": "ぽ",
+            "reading": "po",
+            "vocabulary1": "ぽけっと (poketto - pocket)",
+            "vocabularyImage1": "https://example.com/pocket.png",
+            "vocabulary2": "ぽん (pon - pop sound)",
+            "vocabularyImage2": "https://example.com/pop.png",
+            "usageExample": "ぽけっとにいれる",
+            "usageExampleImage": "https://example.com/pocket_hand.png"
+        }
+    ],
+    "katakana": [
+        {
+            "character": "あ",
+            "reading": "a (あ)",
+            "vocabulary1": "あお",
+            "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
+            "vocabulary2": "ありがとう (arigatou)",
+            "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
+            "usageExample": "ありがとうごさいます",
+            "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
+        }
+    ],
+    "kanji": [
+        {
+            "character": "あ",
+            "reading": "a (あ)",
+            "vocabulary1": "あお",
+            "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
+            "vocabulary2": "ありがとう (arigatou)",
+            "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
+            "usageExample": "ありがとうごさいます",
+            "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
+        }
+    ]
+}

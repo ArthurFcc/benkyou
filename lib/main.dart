@@ -1,4 +1,4 @@
-import 'package:benkyou/drawing_canvas.dart';
+import 'package:benkyou/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,9 +10,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: DrawingCanvas(),
-    );
+    return const MaterialApp(debugShowCheckedModeBanner: false, home: Home());
   }
 }

@@ -1,73 +1,53 @@
-import 'package:benkyou/painters/dotted_cross_painter.dart';
-import 'package:benkyou/painters/painter.dart';
+import 'package:benkyou/lesson/kana.dart';
+import 'package:benkyou/lesson/kana_canvas.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:step_progress/step_progress.dart';
 
 class DrawingCanvas extends StatefulWidget {
-  const DrawingCanvas({super.key});
+  const DrawingCanvas({super.key, required this.kanas});
+
+  final List<Kana> kanas;
 
   @override
   State<DrawingCanvas> createState() => _DrawingCanvasState();
 }
 
 class _DrawingCanvasState extends State<DrawingCanvas> {
-  List<List<Offset>> paths = [];
-
-  void _undo() {
-    if (paths.isNotEmpty) {
-      setState(() {
-        paths.removeLast();
-      });
-    }
-  }
-
-  void _clear() {
-    if (paths.isNotEmpty) {
-      setState(() {
-        paths.clear();
-      });
-    }
-  }
-
-  StepProgressController controller = StepProgressController(
-    totalSteps: 5,
-    initialStep: 3,
-  );
+  int currentKana = 1;
 
   @override
   Widget build(BuildContext context) {
-    final canvasSize = Size(
-      MediaQuery.of(context).size.height * 0.85,
-      MediaQuery.of(context).size.height * 0.40,
+    StepProgressController controller = StepProgressController(
+      totalSteps: widget.kanas.length,
+      initialStep: currentKana - 1,
     );
 
     return Scaffold(
       appBar: AppBar(
-        title: Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            StepProgress(
-              totalSteps: 5,
-              controller: controller,
-              visibilityOptions: StepProgressVisibilityOptions.lineOnly,
-              theme: const StepProgressThemeData(
-                stepLineStyle: StepLineStyle(
-                  lineThickness: 10,
-                  borderRadius: Radius.circular(6),
-                ),
-                activeForegroundColor: Colors.green,
-                defaultForegroundColor: Colors.grey,
+        title: Padding(
+          padding: const EdgeInsets.only(right: 32),
+          child: StepProgress(
+            totalSteps: widget.kanas.length,
+            controller: controller,
+            visibilityOptions: StepProgressVisibilityOptions.lineOnly,
+            theme: const StepProgressThemeData(
+              stepLineStyle: StepLineStyle(
+                lineThickness: 8,
+                isBreadcrumb: true,
               ),
+              activeForegroundColor: Colors.green,
+              defaultForegroundColor: Colors.grey,
             ),
-            Icon(Icons.star, size: 21, color: Colors.amberAccent),
-          ],
+          ),
         ),
       ),
       persistentFooterAlignment: AlignmentDirectional.center,
       persistentFooterButtons: [
         FilledButton.icon(
-          onPressed: () {},
+          onPressed: () => setState(() {
+            if (currentKana > 1) currentKana -= 1;
+          }),
           label: Text("Voltar"),
           style: ButtonStyle(
             backgroundColor: WidgetStatePropertyAll(Colors.blueGrey),
@@ -76,7 +56,9 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
         ),
         SizedBox(width: 150),
         FilledButton.icon(
-          onPressed: () {},
+          onPressed: () => setState(() {
+            if (currentKana < widget.kanas.length) currentKana += 1;
+          }),
           label: Text("Avancar"),
           icon: Icon(Icons.arrow_forward),
           style: ButtonStyle(
@@ -86,98 +68,40 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
         ),
       ],
       body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 24),
+        padding: const EdgeInsets.symmetric(horizontal: 12),
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            GestureDetector(
-              onPanStart: (details) => setState(() {
-                paths.add([details.localPosition]);
-              }),
-              onPanUpdate: (details) => setState(() {
-                paths.last.add(details.localPosition);
-              }),
-              child: SizedBox(
-                child: CustomPaint(
-                  painter: Painter(paths),
-                  size: canvasSize,
-                  child: Stack(
-                    alignment: Alignment.center,
-                    children: [
-                      Text(
-                        "人",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 180,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black26,
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
-              ),
+            KanaCanvas(character: widget.kanas[currentKana - 1].character),
+            KanaCanvas(
+              character: widget.kanas[currentKana - 1].character,
+              isSingleCharacter: false,
             ),
-            GestureDetector(
-              onPanStart: (details) => setState(() {
-                paths.add([details.localPosition]);
-              }),
-              onPanUpdate: (details) => setState(() {
-                paths.last.add(details.localPosition);
-              }),
-              child: SizedBox(
-                child: CustomPaint(
-                  painter: Painter(paths),
-                  size: canvasSize,
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Text(
-                        "人",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 80,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black26,
-                        ),
-                      ),
-                      Text(
-                        "人",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 80,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black26,
-                        ),
-                      ),
-                      Text(
-                        "人",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 80,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black26,
-                        ),
-                      ),
-                      Text(
-                        "人",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 80,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black26,
-                        ),
-                      ),
-                    ],
-                  ),
+            Expanded(
+              child: SingleChildScrollView(
+                child: Column(
+                  children: [
+                    defaultCard(
+                      "Leitura",
+                      widget.kanas[currentKana - 1].reading,
+                      false,
+                    ),
+                    defaultCard(
+                      "Vocabulario",
+                      widget.kanas[currentKana - 1].vocabulary1,
+                      true,
+                    ),
+                    defaultCard(
+                      "Vocabulario",
+                      widget.kanas[currentKana - 1].vocabulary2,
+                      true,
+                    ),
+                    defaultCard(
+                      "Exemplo de uso",
+                      widget.kanas[currentKana - 1].usageExample,
+                      true,
+                    ),
+                  ],
                 ),
-              ),
-            ),
-            SingleChildScrollView(
-              physics: AlwaysScrollableScrollPhysics(),
-              child: Column(
-                children: [
-                  defaultCard("Leitura", "Hito (ひと)", false),
-                  defaultCard("Vocabulario", "人間 (にんげん)", true),
-                  defaultCard("Vocabulario", "", true),
-                  defaultCard("Exemplo de uso", "", true),
-                ],
               ),
             ),
           ],
