@@ -34,6 +34,7 @@ class _HomeState extends State<Home> {
         title: Text("PRATIKANA", style: GoogleFonts.notoSans(fontSize: 21)),
       ),
       body: Column(
+        spacing: 18,
         children: [
           Row(
             crossAxisAlignment: CrossAxisAlignment.start,

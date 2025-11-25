@@ -16,6 +16,8 @@ class KanaCanvas extends StatefulWidget {
 }
 
 class _KanaCanvasState extends State<KanaCanvas> {
+  // Maybe instanciate this variable using a List an them put a path for each
+  // "phase", right now the paths are all the same and they keep state forever
   final List<List<Offset>> paths = [];
 
   @override

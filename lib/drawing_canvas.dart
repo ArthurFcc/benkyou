@@ -83,22 +83,25 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                     defaultCard(
                       "Leitura",
                       widget.kanas[currentKana - 1].reading,
-                      false,
+                      null,
                     ),
                     defaultCard(
                       "Vocabulario",
                       widget.kanas[currentKana - 1].vocabulary1,
-                      true,
+                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
+                      // widget.kanas[currentKana - 1].vocabularyImage1,
                     ),
                     defaultCard(
                       "Vocabulario",
                       widget.kanas[currentKana - 1].vocabulary2,
-                      true,
+                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
+                      // widget.kanas[currentKana - 1].vocabularyImage2,
                     ),
                     defaultCard(
                       "Exemplo de uso",
                       widget.kanas[currentKana - 1].usageExample,
-                      true,
+                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
+                      // widget.kanas[currentKana - 1].usageExampleImage,
                     ),
                   ],
                 ),
@@ -111,9 +114,9 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
   }
 }
 
-Widget defaultCard(String title, String description, bool hasImage) {
+Widget defaultCard(String title, String description, String? image) {
   return SizedBox(
-    height: hasImage ? 170 : 100,
+    height: image != null ? 190 : 100,
     width: 340,
     child: Card(
       elevation: 0,
@@ -124,13 +127,13 @@ Widget defaultCard(String title, String description, bool hasImage) {
           children: [
             cardText(title, true),
             cardText(description, false),
-            if (hasImage)
+            if (image != null)
               Padding(
                 padding: const EdgeInsets.only(top: 8),
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   mainAxisAlignment: MainAxisAlignment.center,
-                  children: [Icon(Icons.search, size: 62)],
+                  children: [Image.network(image, height: 80)],
                 ),
               ),
           ],
