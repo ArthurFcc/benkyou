@@ -21,8 +21,13 @@ class CustomCard extends StatelessWidget {
               elevation: 0,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  Text(title, style: GoogleFonts.notoSans(fontSize: 28)),
+                  Text(
+                    title,
+                    textAlign: TextAlign.center,
+                    style: TextStyle(fontSize: 28),
+                  ),
                 ],
               ),
             ),

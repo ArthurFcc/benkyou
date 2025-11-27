@@ -56,10 +56,63 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
         ),
         SizedBox(width: 150),
         FilledButton.icon(
-          onPressed: () => setState(() {
-            if (currentKana < widget.kanas.length) currentKana += 1;
-          }),
-          label: Text("Avançar"),
+          onPressed: () => currentKana == widget.kanas.length
+              ? showDialog(
+                  context: context,
+                  fullscreenDialog: true,
+                  animationStyle: AnimationStyle(
+                    curve: Curves.ease,
+                    duration: Durations.medium2,
+                  ),
+                  useSafeArea: true,
+                  builder: (context) => Dialog.fullscreen(
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 24),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        crossAxisAlignment: CrossAxisAlignment.center,
+                        children: [
+                          Text(
+                            "Bom trabalho!!",
+                            style: TextStyle(
+                              fontSize: 42,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Text(
+                            "やったね!!",
+                            style: TextStyle(
+                              fontSize: 36,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(vertical: 58),
+                            child: Image.network(
+                              height: 300,
+                              "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpzmykJAW6ByDi9dMM-D73Em32ymN0tGRAA_VqFTkBYbMdaneScANBqloh75LPmr0xwQCpJ2evpHh09b8c-HQ0OqcdUHHy12ubksbrgUsS94cm7WzeV2zgDt2VPmoEInzMyA0GF3I_u5H/s400/plant_ooonibasu_girl.png",
+                            ),
+                          ),
+                          SizedBox(
+                            width: double.infinity,
+                            child: FilledButton(
+                              onPressed: () => Navigator.of(
+                                context,
+                              ).popUntil((route) => route.isFirst),
+                              child: Text("Concluir"),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                )
+              : setState(() {
+                  if (currentKana < widget.kanas.length) currentKana += 1;
+                }),
+          label: Text(
+            currentKana == widget.kanas.length ? "Concluir" : "Avançar",
+          ),
           icon: Icon(Icons.arrow_forward),
           style: ButtonStyle(
             backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
@@ -85,21 +138,24 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                       widget.kanas[currentKana - 1].reading,
                       null,
                     ),
-                    defaultCard(
-                      "Vocabulario",
-                      widget.kanas[currentKana - 1].vocabulary1,
-                      widget.kanas[currentKana - 1].vocabularyImage1,
-                    ),
-                    defaultCard(
-                      "Vocabulario",
-                      widget.kanas[currentKana - 1].vocabulary2,
-                      widget.kanas[currentKana - 1].vocabularyImage2,
-                    ),
-                    defaultCard(
-                      "Exemplo de uso",
-                      widget.kanas[currentKana - 1].usageExample,
-                      widget.kanas[currentKana - 1].usageExampleImage,
-                    ),
+                    if (widget.kanas[currentKana - 1].vocabulary1.isNotEmpty)
+                      defaultCard(
+                        "Vocabulario",
+                        widget.kanas[currentKana - 1].vocabulary1,
+                        widget.kanas[currentKana - 1].vocabularyImage1,
+                      ),
+                    if (widget.kanas[currentKana - 1].vocabulary2.isNotEmpty)
+                      defaultCard(
+                        "Vocabulario",
+                        widget.kanas[currentKana - 1].vocabulary2,
+                        widget.kanas[currentKana - 1].vocabularyImage2,
+                      ),
+                    if (widget.kanas[currentKana - 1].usageExample.isNotEmpty)
+                      defaultCard(
+                        "Exemplo de uso",
+                        widget.kanas[currentKana - 1].usageExample,
+                        widget.kanas[currentKana - 1].usageExampleImage,
+                      ),
                   ],
                 ),
               ),
@@ -117,6 +173,7 @@ Widget defaultCard(String title, String description, String? image) {
     width: 380,
     child: Card(
       elevation: 0,
+      color: Colors.grey.shade200,
       child: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Column(
@@ -124,7 +181,7 @@ Widget defaultCard(String title, String description, String? image) {
           children: [
             cardText(title, true),
             cardText(description, false),
-            if (image != null)
+            if (image != null && image.isNotEmpty)
               Padding(
                 padding: const EdgeInsets.only(top: 8),
                 child: Row(
@@ -148,7 +205,7 @@ Widget cardText(String text, bool isTitle) {
       style: GoogleFonts.kleeOne(
         fontSize: isTitle ? 18 : 24,
         fontWeight: FontWeight.bold,
-        color: isTitle ? Color(0xFF68a49c) : Colors.black,
+        color: isTitle ? Color(0xFF68a49c) : Colors.black87,
       ),
     ),
   );

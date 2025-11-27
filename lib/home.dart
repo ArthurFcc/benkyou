@@ -5,7 +5,6 @@ import 'package:benkyou/lesson/kana.dart';
 import 'package:benkyou/shared/custom_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -26,9 +25,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("PRATIKANA", style: GoogleFonts.notoSans(fontSize: 21)),
-      ),
+      appBar: AppBar(title: Text("PRATIKANA", style: TextStyle(fontSize: 21))),
       body: Column(
         spacing: 18,
         children: [
@@ -40,10 +37,7 @@ class _HomeState extends State<Home> {
                   vertical: 12,
                   horizontal: 18,
                 ),
-                child: Text(
-                  "Pratique:",
-                  style: GoogleFonts.notoSans(fontSize: 21),
-                ),
+                child: Text("Pratique:", style: TextStyle(fontSize: 21)),
               ),
             ],
           ),
@@ -71,6 +65,25 @@ class _HomeState extends State<Home> {
               ),
             ),
           ),
+          CustomCard(
+            title: "Hiragana (Dakuten & Handakuten)",
+            action: () => showDialog(
+              context: context,
+              builder: (context) => AlertDialog(
+                title: Text("Selecione o silabário"),
+                constraints: BoxConstraints(maxHeight: 350),
+                content: Column(
+                  children: [
+                    kanaLoad("が〜ご", (46, 51)),
+                    kanaLoad("ざ〜ぞ", (51, 56)),
+                    kanaLoad("だ〜ど", (56, 61)),
+                    kanaLoad("ば〜ぼ", (61, 66)),
+                    kanaLoad("ぱ〜ぽ", (66, 71)),
+                  ],
+                ),
+              ),
+            ),
+          ),
         ],
       ),
     );
@@ -91,7 +104,7 @@ class _HomeState extends State<Home> {
         style: ButtonStyle(
           backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
         ),
-        child: Text(text, style: GoogleFonts.notoSans(fontSize: 21)),
+        child: Text(text, style: TextStyle(fontSize: 21)),
       ),
     );
   }
