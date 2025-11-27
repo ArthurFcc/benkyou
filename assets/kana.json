@@ -1,738 +1,738 @@
 {
-    "hiragana": [
-        {
-            "character": "あ",
-            "reading": "a",
-            "vocabulary1": "あか (aka - vermelho)",
-            "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_BIfrfy6DdK4PIFFaKgdteikkJvJDcboSGXtfIqSyZJ09TcCUHJFTAjGe1BV50Fzqc7oK9wSC75DsN-Ta3MEya_KAOVqdOycRfuMJkOp5Yu0Yl-7LY2XxuZ7ce_hcsU9tyIEnkPmrJg/s400/setsubun_akaoni_mame.png",
-            "vocabulary2": "あめ (ame - chuva)",
-            "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjERAiR_4TcammKKSdlcDADJ5SveM5H1losstqviRPpmyTIRgPlb6apmZYpF_Lrz8f7HGMPSpY-qkWolRzlWPWbbsHEq9iBFNWtQebo97lhwPjm4MYrcS__4q73nfDbWmvRQzj4JJAG95U/s180-c/rain_ame.png",
-            "usageExample": "ありがとう (arigatou - Obrigado)",
-            "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgF2CUDnU64UpkWSrOrBbts98i8_kr-E5XfTnz0znR4NgQ-UpOK4abjYU2BTdFv6dFY9xaI3TDxn3kv-NKBsyvcxi0qsskmOlFJRsp1GRS-sK9VY0fLDll8Zrw0SwVqFPUO90ns6ODcU/s400/aisatsu_arigatou.png"
-        },
-        {
-            "character": "い",
-            "reading": "i",
-            "vocabulary1": "いぬ (inu - cacharro)",
-            "vocabularyImage1": "",
-            "vocabulary2": "いす (isu - cadeira)",
-            "vocabularyImage2": "",
-            "usageExample": "いい(ii - bom)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "う",
-            "reading": "u",
-            "vocabulary1": "うみ (umi - mar)",
-            "vocabularyImage1": "",
-            "vocabulary2": "うさぎ (usagi - coelho)",
-            "vocabularyImage2": "",
-            "usageExample": "うれしい(ureshii - feliz)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "え",
-            "reading": "e",
-            "vocabulary1": "えき (eki - estação do trem)",
-            "vocabularyImage1": "",
-            "vocabulary2": "えんぴつ (enpitsu - lápis)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "お",
-            "reading": "o",
-            "vocabulary1": "おおきい (ōkii - grande)",
-            "vocabularyImage1": "",
-            "vocabulary2": "おちゃ (ocha - chá)",
-            "vocabularyImage2": "",
-            "usageExample": "おはよう(ohayou - Bom dia)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "か",
-            "reading": "ka",
-            "vocabulary1": "かさ (kasa - guarda chuva)",
-            "vocabularyImage1": "",
-            "vocabulary2": "かぞく (kazoku - família)",
-            "vocabularyImage2": "",
-            "usageExample": "かわいい(kawaii - bonita)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "き",
-            "reading": "ki",
-            "vocabulary1": "き (ki - árvore)",
-            "vocabularyImage1": "",
-            "vocabulary2": "きいろ (kiiro - amarelo)",
-            "vocabularyImage2": "",
-            "usageExample": "きれい(kirei - lindo)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "く",
-            "reading": "ku",
-            "vocabulary1": "くち (kuchi - boca)",
-            "vocabularyImage1": "",
-            "vocabulary2": "くも (kumo - nuvem)",
-            "vocabularyImage2": "",
-            "usageExample": "ください(kudasai - por favor)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "け",
-            "reading": "ke",
-            "vocabulary1": "け(ke - pelo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "けんか (kenka - briga)",
-            "vocabularyImage2": "",
-            "usageExample": "けれど(keredo - mas)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "こ",
-            "reading": "ko",
-            "vocabulary1": "こども (kodomo - criança)",
-            "vocabularyImage1": "",
-            "vocabulary2": "これ (kore - este)",
-            "vocabularyImage2": "",
-            "usageExample": "こんにちは(konnichiwa - Boa tarde)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "さ",
-            "reading": "sa",
-            "vocabulary1": "さかな (sakana - peixe)",
-            "vocabularyImage1": "",
-            "vocabulary2": "さとう (satou - açucar)",
-            "vocabularyImage2": "",
-            "usageExample": "さん(san - senhor)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "し",
-            "reading": "shi",
-            "vocabulary1": "しお (shio - sal)",
-            "vocabularyImage1": "",
-            "vocabulary2": "しろ (shiro - branco)",
-            "vocabularyImage2": "",
-            "usageExample": "しつれいします(shitsureishimasu - com lisença)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "す",
-            "reading": "su",
-            "vocabulary1": "すし (sushi)",
-            "vocabularyImage1": "",
-            "vocabulary2": "すいか (suika - meloncia)",
-            "vocabularyImage2": "",
-            "usageExample": "すきです(Eu gosto)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "せ",
-            "reading": "se",
-            "vocabulary1": "せかい (sekai - mundo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "せなか (senaka - costas)",
-            "vocabularyImage2": "",
-            "usageExample": "せんせい(sensei - professor)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "そ",
-            "reading": "so",
-            "vocabulary1": "そら (sora - céu)",
-            "vocabularyImage1": "",
-            "vocabulary2": "そと (soto - fora)",
-            "vocabularyImage2": "",
-            "usageExample": "そうだね(soudane - É.)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "た",
-            "reading": "ta",
-            "vocabulary1": "たまご (tamago - ovo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "たのしい (tanoshii - divertido)",
-            "vocabularyImage2": "",
-            "usageExample": "たくさん(takusan - muito )",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ち",
-            "reading": "chi",
-            "vocabulary1": "ちず (chizu - mapa)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ちいさい (chiisai - pequeno)",
-            "vocabularyImage2": "",
-            "usageExample": "ちかい(chikai - perto)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "つ",
-            "reading": "tsu",
-            "vocabulary1": "つき (tsuki - lua)",
-            "vocabularyImage1": "",
-            "vocabulary2": "つくえ (tsukeru - tsukue)",
-            "vocabularyImage2": "",
-            "usageExample": "つめたい",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "て",
-            "reading": "te",
-            "vocabulary1": "て (te - mão)",
-            "vocabularyImage1": "",
-            "vocabulary2": "てがみ (tegami - carta)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "と",
-            "reading": "to",
-            "vocabulary1": "ともだち (tomodachi - amigo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "とり (tori - passaro)",
-            "vocabularyImage2": "",
-            "usageExample": "～と (to - e,)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "な",
-            "reading": "na",
-            "vocabulary1": "なまえ (namae - nome)",
-            "vocabularyImage1": "",
-            "vocabulary2": "なつ (natsu - verão)",
-            "vocabularyImage2": "",
-            "usageExample": "なに (nani - O que)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "に",
-            "reading": "ni",
-            "vocabulary1": "にほん (nihon - Japão)",
-            "vocabularyImage1": "",
-            "vocabulary2": "にく (niku - carne)",
-            "vocabularyImage2": "",
-            "usageExample": "にがい (nigai - amargo)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぬ",
-            "reading": "nu",
-            "vocabulary1": "ぬの (nuno - pano)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぬいぐるみ (nuigurumi - boneco de pelúcia)",
-            "vocabularyImage2": "",
-            "usageExample": "ぬれる (nureru - molhar)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ね",
-            "reading": "ne",
-            "vocabulary1": "ねこ (neko - gato)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ねつ (netsu - fevre)",
-            "vocabularyImage2": "",
-            "usageExample": "ねむい (nemui - sono)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "の",
-            "reading": "no",
-            "vocabulary1": "のり (nori - cola)",
-            "vocabularyImage1": "",
-            "vocabulary2": "のど (nodo - garganta)",
-            "vocabularyImage2": "",
-            "usageExample": "のむ (nomu - beber)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "は",
-            "reading": "ha",
-            "vocabulary1": "はな (hana - flor)",
-            "vocabularyImage1": "",
-            "vocabulary2": "はこ (hako - caixa)",
-            "vocabularyImage2": "",
-            "usageExample": "はじめまして (Hazimemashite - Prazer)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ひ",
-            "reading": "hi",
-            "vocabulary1": "ひる (hiru -meio-dia)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ひと (hito - pessoa)",
-            "vocabularyImage2": "",
-            "usageExample": "ひとつ (hitotsu - uma coisa)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ふ",
-            "reading": "fu",
-            "vocabulary1": "ふく (fuku - roupa)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ふゆ (fuyu - inverno)",
-            "vocabularyImage2": "",
-            "usageExample": "ふつう (futsuu - normal)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "へ",
-            "reading": "he",
-            "vocabulary1": "へや (heya - quarto)",
-            "vocabularyImage1": "",
-            "vocabulary2": "へび (hebi - cobra)",
-            "vocabularyImage2": "",
-            "usageExample": "へん (hen - estranho) ",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ほ",
-            "reading": "ho",
-            "vocabulary1": "ほん (hon - livro)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ほし (hoshi - estrela)",
-            "vocabularyImage2": "",
-            "usageExample": "ほんとう (hontou - verdade)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ま",
-            "reading": "ma",
-            "vocabulary1": "まど (mado - janela)",
-            "vocabularyImage1": "",
-            "vocabulary2": "まち (machi - cidade)",
-            "vocabularyImage2": "",
-            "usageExample": "またね (Matane - Até mais)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "み",
-            "reading": "mi",
-            "vocabulary1": "みず (mizu - água)",
-            "vocabularyImage1": "",
-            "vocabulary2": "みみ (mimi - orelha)",
-            "vocabularyImage2": "",
-            "usageExample": "みんな (minna - gente)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "む",
-            "reading": "mu",
-            "vocabulary1": "むし (mushi - inseto)",
-            "vocabularyImage1": "",
-            "vocabulary2": "むね (mune - peito)",
-            "vocabularyImage2": "",
-            "usageExample": "むずかしい (muzukashii - difícil)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "め",
-            "reading": "me",
-            "vocabulary1": "め (me - olho)",
-            "vocabularyImage1": "",
-            "vocabulary2": "めがね (megane - óculos)",
-            "vocabularyImage2": "",
-            "usageExample": "めんどうくさい (mendoukusai - preguiça)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "も",
-            "reading": "mo",
-            "vocabulary1": "もり (mori - floresta)",
-            "vocabularyImage1": "",
-            "vocabulary2": "もの (mono - coisa)",
-            "vocabularyImage2": "",
-            "usageExample": "～も (mo - também)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "や",
-            "reading": "ya",
-            "vocabulary1": "やま (yama - montanha)",
-            "vocabularyImage1": "",
-            "vocabulary2": "やさい (yasai - vegetais)",
-            "vocabularyImage2": "",
-            "usageExample": "やさしい (yasashii - gentil)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ゆ",
-            "reading": "yu",
-            "vocabulary1": "ゆび (yubi - dedo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ゆめ (yume - dream)",
-            "vocabularyImage2": "",
-            "usageExample": "ゆっくり (yukkuri - devagar)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "よ",
-            "reading": "yo",
-            "vocabulary1": "よる (yoru - noite)",
-            "vocabularyImage1": "",
-            "vocabulary2": "よい (yoi/yoshi - bom)",
-            "vocabularyImage2": "",
-            "usageExample": "よろしくおねがいします (Yoroshikuonegaishimasu - Prazer)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ら",
-            "reading": "ra",
-            "vocabulary1": "らく (raku - fácil)",
-            "vocabularyImage1": "",
-            "vocabulary2": "らくだ (rakuda - camelo)",
-            "vocabularyImage2": "",
-            "usageExample": "らいねん (rainen - ano que vem) ",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "り",
-            "reading": "ri",
-            "vocabulary1": "りんご (ringo - maçã)",
-            "vocabularyImage1": "",
-            "vocabulary2": "りょうり (ryouri - comida)",
-            "vocabularyImage2": "",
-            "usageExample": "りょうかい (Ryoukai - Entendido)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "る",
-            "reading": "ru",
-            "vocabulary1": "るり (ruri - azul lapis)",
-            "vocabularyImage1": "",
-            "vocabulary2": "るす (rusu - ausência)",
-            "vocabularyImage2": "",
-            "usageExample": "るい (rui - tipo)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "れ",
-            "reading": "re",
-            "vocabulary1": "れい (rei - exemplo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "れきし (rekishi - história)",
-            "vocabularyImage2": "",
-            "usageExample": "れい (Rei - Baixa a cabeça)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ろ",
-            "reading": "ro",
-            "vocabulary1": "ろうか (rouka - corredor)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ろく (roku - seis)",
-            "vocabularyImage2": "",
-            "usageExample": "ろくじ (Rokuji - 6 horas)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "わ",
-            "reading": "wa",
-            "vocabulary1": "わかい (wakai - jovem)",
-            "vocabularyImage1": "",
-            "vocabulary2": "わたし (watashi - eu)",
-            "vocabularyImage2": "",
-            "usageExample": "わかりました (Wakarimashita - Entendi)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "を",
-            "reading": "wo",
-            "vocabulary1": "を (particla)",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "ほんをよむ (ler o livro)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ん",
-            "reading": "n",
-            "vocabulary1": " ()",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "が",
-            "reading": "ga",
-            "vocabulary1": "がっこう (gakkou - escola)",
-            "vocabularyImage1": "",
-            "vocabulary2": "がまん (gaman - aguentar)",
-            "vocabularyImage2": "",
-            "usageExample": "がんばる",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぎ",
-            "reading": "gi",
-            "vocabulary1": "ぎんこう (ginkō - bank)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぎゅうにゅう (gyuunyuu - leite)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぐ",
-            "reading": "gu",
-            "vocabulary1": "ぐらむ (guramu - gram)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぐあい (guai - condição)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "げ",
-            "reading": "ge",
-            "vocabulary1": "げんき (genki - saúde)",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ご",
-            "reading": "go",
-            "vocabulary1": "ごはん (gohan - arroz)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ごめん (Gomen - Desculpe)",
-            "vocabularyImage2": "",
-            "usageExample": "ごちそうさま (Gochisousama - Boa refeição)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ざ",
-            "reading": "za",
-            "vocabulary1": "ざっし (zasshi - revizão)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ざつがく (zastugaku - curiosidade)",
-            "vocabularyImage2": "",
-            "usageExample": "ざんねん (Zannen - Que pena)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "じ",
-            "reading": "ji",
-            "vocabulary1": "じかん (jikan - horário)",
-            "vocabularyImage1": "",
-            "vocabulary2": "じしょ (jisho - dicionário)",
-            "vocabularyImage2": "",
-            "usageExample": "じょうず (jouzu - bem)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ず",
-            "reading": "zu",
-            "vocabulary1": "ずかん (zukan - livro ilustado)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ずっと (zutto - sempre)",
-            "vocabularyImage2": "",
-            "usageExample": "ずつう (zutsuu - dor de cabeça)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぜ",
-            "reading": "ze",
-            "vocabulary1": "ぜったい (zettai - com certeza)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぜんぶ (zenbu - tudo)",
-            "vocabularyImage2": "",
-            "usageExample": "ぜんぜん (zenzen - nada)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぞ",
-            "reading": "zo",
-            "vocabulary1": "ぞう (zō - elefante)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぞくぞく (zokuzoku - animado)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "だ",
-            "reading": "da",
-            "vocabulary1": "だいがく (daigaku - universidade)",
-            "vocabularyImage1": "",
-            "vocabulary2": "だれ (dare - quem)",
-            "vocabularyImage2": "",
-            "usageExample": "だいじょうぶ (Daizyoubu - Tudo bem)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぢ",
-            "reading": "ji",
-            "vocabulary1": "はなぢ (hanaji - sangue de nariz)",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "づ",
-            "reading": "zu",
-            "vocabulary1": "つづく (tsuzuku - continuar)",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "で",
-            "reading": "de",
-            "vocabulary1": "でんわ (denwa - telefone)",
-            "vocabularyImage1": "",
-            "vocabulary2": "でんしゃ (densha - trem)",
-            "vocabularyImage2": "",
-            "usageExample": "できる (dekiru - conseguir)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ど",
-            "reading": "do",
-            "vocabulary1": "どれ (Dore - Qual)",
-            "vocabularyImage1": "",
-            "vocabulary2": "どうも (Douzo - Obrigado)",
-            "vocabularyImage2": "",
-            "usageExample": "どうぞ (Douzo - por favor) ",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ば",
-            "reading": "ba",
-            "vocabulary1": "ばしょ (basho - lugar)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ばんごう (bangou - número)",
-            "vocabularyImage2": "",
-            "usageExample": "ばいばい (Bai-bai Tchau-tchau)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "び",
-            "reading": "bi",
-            "vocabulary1": "びじゅつ (bijutsu - arte)",
-            "vocabularyImage1": "",
-            "vocabulary2": "びっくり (bikkuri - surpresa)",
-            "vocabularyImage2": "",
-            "usageExample": "びっくりした！ (Que susto!)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぶ",
-            "reading": "bu",
-            "vocabulary1": "ぶた (buta - pig)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぶんしょう (bunshō - frase)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "べ",
-            "reading": "be",
-            "vocabulary1": "べんきょう (benkyō - estudo)",
-            "vocabularyImage1": "",
-            "vocabulary2": "べつ (betsu - differente)",
-            "vocabularyImage2": "",
-            "usageExample": "べんり (conviniente)",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぼ",
-            "reading": "bo",
-            "vocabulary1": "ぼうし (bōshi - bone)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぼく (boku - Eu)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぱ",
-            "reading": "pa",
-            "vocabulary1": " ()",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぴ",
-            "reading": "pi",
-            "vocabulary1": " ()",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぷ",
-            "reading": "pu",
-            "vocabulary1": " ()",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぺ",
-            "reading": "pe",
-            "vocabulary1": "ぺらぺら (perapera - fluentemente)",
-            "vocabularyImage1": "",
-            "vocabulary2": "ぺこぺこ (pekopeko - fome)",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        },
-        {
-            "character": "ぽ",
-            "reading": "po",
-            "vocabulary1": " ()",
-            "vocabularyImage1": "",
-            "vocabulary2": " ()",
-            "vocabularyImage2": "",
-            "usageExample": "",
-            "usageExampleImage": ""
-        }
-    ],
-    "katakana": [
-        {
-            "character": "あ",
-            "reading": "a (あ)",
-            "vocabulary1": "あお",
-            "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
-            "vocabulary2": "ありがとう (arigatou)",
-            "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
-            "usageExample": "ありがとうごさいます",
-            "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
-        }
-    ],
-    "kanji": [
-        {
-            "character": "あ",
-            "reading": "a (あ)",
-            "vocabulary1": "あお",
-            "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
-            "vocabulary2": "ありがとう (arigatou)",
-            "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
-            "usageExample": "ありがとうごさいます",
-            "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
-        }
-    ]
+  "hiragana": [
+    {
+      "character": "あ",
+      "reading": "a",
+      "vocabulary1": "あか (aka - vermelho)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_BIfrfy6DdK4PIFFaKgdteikkJvJDcboSGXtfIqSyZJ09TcCUHJFTAjGe1BV50Fzqc7oK9wSC75DsN-Ta3MEya_KAOVqdOycRfuMJkOp5Yu0Yl-7LY2XxuZ7ce_hcsU9tyIEnkPmrJg/s400/setsubun_akaoni_mame.png",
+      "vocabulary2": "あめ (ame - chuva)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjERAiR_4TcammKKSdlcDADJ5SveM5H1losstqviRPpmyTIRgPlb6apmZYpF_Lrz8f7HGMPSpY-qkWolRzlWPWbbsHEq9iBFNWtQebo97lhwPjm4MYrcS__4q73nfDbWmvRQzj4JJAG95U/s180-c/rain_ame.png",
+      "usageExample": "ありがとう (arigatou - Obrigado)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgF2CUDnU64UpkWSrOrBbts98i8_kr-E5XfTnz0znR4NgQ-UpOK4abjYU2BTdFv6dFY9xaI3TDxn3kv-NKBsyvcxi0qsskmOlFJRsp1GRS-sK9VY0fLDll8Zrw0SwVqFPUO90ns6ODcU/s400/aisatsu_arigatou.png"
+    },
+    {
+      "character": "い",
+      "reading": "i",
+      "vocabulary1": "いぬ (inu - cacharro)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMRxnxc0un8VIB5jQwS8GcnJiKsqUXa2grfPhrafDOHNfLeytdl5dR2wXLcLaw96RJ_06B1py6geWMR6uJ8hO7Cq0SYhPSCyXimqK8ZWJNX6LMK9zAg2lrwrfxbMptaXbegQ3t4SrYquRf/s400/eto_remake_inu.png",
+      "vocabulary2": "いす (isu - cadeira)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBumhWMkneFKwFBrMV9Qy4l_PubGY3a7CeJQV0YLBWsSKVsxewsTkzdX7bVm75Nf385H0N231A0f7KkvvfxIxl9zbrdGtZ_m2U8grUHrHfvxH0lH0tw5kxdDlZQ5vc_BkvUZyQxRXGPFA/s400/pipe_isu.png",
+      "usageExample": "いい(ii - bom)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUrQHGikeLriM8iUnuPk6zrqXPbc7r2K_FFezcZCu0jz6E4AQZM3GaOiM9-bp_SrIv9PkHAY-mfCl0WPyM2_BHGWUr95i7ZHPHzw1xU_0xb5AvtyGqDTMYKHq842lQaPnU760eKxx2R1s/s180-c/thumbnail_animal_quiz_neko.jpg"
+    },
+    {
+      "character": "う",
+      "reading": "u",
+      "vocabulary1": "うみ (umi - mar)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHvbSjciDJdO23Qe5mB9D-_HeD4fbkQNOvFd-Wld0FxSLysTUFSPfMbj6c0uUy0WGy9ixRqz6gm-OsC-FlhYiyZ7hScvBui3xE4RgOnKPjyjj1jy-nqUMRGfMJz8eMyQo5baQpsZvwY_SM/s180-c/umi_beach.png",
+      "vocabulary2": "うさぎ (usagi - coelho)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1CS-oBw0jH1r20CnTnJeQ9mnnlqLWoflL8S5DNKW7ccIgZrFgYI36A3BuLBFJncnp8a2VLya8ixKrWMa8XeE_G4cM4hD0tIUVkh4Ewh1GjAM12RN366YtSjTJevwnxLdur_F9WtB3uWWS/s180-c/eto_remake_usagi.png",
+      "usageExample": "うれしい(ureshii - feliz)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDEVTTU9pQBcZFuZp0kych83Zq4e6cvNO5k4F4Y7UwRnYOoHRzwHz9yIKhKgt5ZKlcZIR0AwHwspHSkGk5R3cF1vPCQ7JlVopNq9WvD1VTNP0mP9urV_grWKBB_0fJvPXmiVFnzn_Kz9aW/s350/birthday_party_woman_sunglass.png"
+    },
+    {
+      "character": "え",
+      "reading": "e",
+      "vocabulary1": "えき (eki - estação do trem)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL16cVdaQP3Jj9YknoCvJl9c2f_yCeY5A6h2_DrYgNI_ckRwPZDzAx7wBrDGXI4utDqQweeJpcmEG5krUaFFJJBEIKQocxFYSDC_yY_tdioQAyoPuEh1Jk9aZeACkfi6nuDc04jQNV5Aef/s180-c/bg_eki_home.jpg",
+      "vocabulary2": "えんぴつ (enpitsu - lápis)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7FUsguv3kj27LTMzGyR8dpworfflB1hRI5Vo2IEcPY1pMu7zvJDaMbXZzLImcBRp8XHxpszNgfmhHiC7oK33otMC0IbPBYW0fcWT5HdWvMPyH9Ryfv40Ux1RJhyphenhyphenTp3_wmEcM5Qw7sQE/s180-c/pen_enpitsu_mark.png",
+      "usageExample": "ええ (ee - sim)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnitLZOOOG1Mh6Gv9WgsDcMARRijufG80JclMsu-tMmj2hPj9cTtJBXtVRyoZJ9yxU5F1qWNwcRO2V9jqnQFenGy88JFnm_Z867B3VUm9eWkM2NcsJ2QA7bSAe7BMREh0uvR1it9aRuk/s180-c/poze_unazuku_woman.png"
+    },
+    {
+      "character": "お",
+      "reading": "o",
+      "vocabulary1": "おおきい (ōkii - grande)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyMaYLaBqxdfj4oX5Vh0QwfrF8BmeGjpvUdOLDl1l7ehzbfzS9tCxUNISW5TW7NDR2mfTguf8pbKrIVDTduGF0yZEy64dGnaAuxrBkKO9X2oWwd_wc9aOuNm2AHxPK412jPPPOstQ6P7q7/s180-c/kyodai_robot.png",
+      "vocabulary2": "おちゃ (ocha - chá)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdSP1TXx-WzDsyc7xuiXFrMByow3XsfYHEia-OsWWiEqIx63uZGkKNpteUUJMZ9vauIEKW1x4HXA5SmPH3DwxSP67dUYafgso4QkpG9MSsrOqwbHQeLYcTGbnaosanYjj7DEVnGkVXz8D/s180-c/tea_chakoboshi_suteru.png",
+      "usageExample": "おはよう(ohayou - Bom dia)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhATiEsS_2vqdunv3SJD8gNfHTJyrY4UmruGcTzOKJFTpIGPz1t22jv3gQ_dzz1MSQP4YbvsY1R2HAPyUhRnZe69ZmnverTv6mjBigjW_S-9MJNTsYRNhux7SLd08DPJuVpXk3kq8JH9wk/s180-c/aisatsu1_ohayou.png"
+    },
+    {
+      "character": "か",
+      "reading": "ka",
+      "vocabulary1": "かさ (kasa - guarda chuva)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikT_NKeN9e5AOAJuRTuDoBL1nUv9XzjUKMMNJG55UV0EkY-M81bdLrbYH2V0B84xd3tYx-Yndu0cmBJAF5NnlLybeF0mknM1-axHs-RhPGH8Dc1VdTX84kxgx3ztM2h6YF4RrFdmNe1-b9/s180-c/rain_kasatate_kasa.png",
+      "vocabulary2": "かぞく (kazoku - família)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxOs_IbuHuyXOMcGBUZ0prJ1xAWFa9y5GbBtyHZ9qWZSyM3xt7U9OKzBO0czs4yc_A3HeHdGqlhexXaDcTFHFv80ToDeFhlFXvENqKjD9CRb6BpLlZuVvD-U1L8HDifQmTY0FpNAHwZ-PL/s180-c/travel_happy_family_set.png",
+      "usageExample": "かわいい(kawaii - bonita)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwQ0Rt_D5XNRWZ9ml1fe39qosoTwotUwGotjtghs17btdS-iHGkU_2-05n56v3XRZoNfQ-FO7zNUNRDxdTkFvJhqvhlHwoaUyjrCyzEiOFPJ568w3PFs31k_z89fQ0eNppyrb93-26KTf1/s180-c/otaku_girl_fashion.png"
+    },
+    {
+      "character": "き",
+      "reading": "ki",
+      "vocabulary1": "き (ki - árvore)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidVh6roXVS-UWgJ2xzy6BoADzfv0mdSPpASVr-fjMw4t4CMjJfQRQJanOThgqYwrc62mKAMCNCZleYfy5z963o0WM1Gen2e2sEo0cgXhZgByv634gPfa9FBwwfwANDlLp2_RtpK2-WLp5e/s180-c/nemunoki_monkey_pod_tree.png",
+      "vocabulary2": "きいろ (kiiro - amarelo)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Ke1v154vB3RUIjbqdAN-dNmXHyNisHeCM3xiP7PS_C1x7sX0x35YVC3ElFpBHuE3WOAsza6rkXt_66wO_FW2ObYaffc43ywWen9RQJ3peXebOzE11-a-QCvTGLU6kYA739ZUk4TqJykf/s180-c/thumbnail_sun_yellow.jpg",
+      "usageExample": "きれい(kirei - lindo)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5OyN6NFJZafA2LPvrMtlLYs-6LrVT6A2YmQRd64eT3CATo5Hju7AeM2GeBTnp0gsvxcPZuKjr_0LM6O7l_w3B3K-4x7Sb0cWIvPuD2u3R2uTYC4-VqGG5lsreGiFIQ6JWRGXOZB4LBAcP/s180-c/ohimesama_japan.png"
+    },
+    {
+      "character": "く",
+      "reading": "ku",
+      "vocabulary1": "くち (kuchi - boca)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4jMXCFp-oTTnw6lDrxmfFOHDdoYjfrsEN74aysPYL60IvaU6It2SmIG0VOMjrjlmg3Nxx-iK5fWfbnrWAjH8mNurjRJe364jVMO45mhO8f9Rxdz5n7JNi5dE_bcW_C0NT5UuQ0bmkmJ0/s180-c/kuchi_akeru_man.png",
+      "vocabulary2": "くも (kumo - nuvem)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaCsSM1Ni9LpG4WZV0RiXmzF4bR8FZCGwMDXOxAoYna33ewJKc0Pi5kb_X-s85cjOX8mwLlWGRtO9EF9S48Te7ApdGhQGGh7Pr9qgvjUvPCHwQR3nCB_5sjZGv5Ae45dIhyDBoODM_liQ/s180-c/kumo_bg.png",
+      "usageExample": "ください(kudasai - por favor)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieoNzaobsebcl38IfzsTJVw6rWsyjs3znCTUM1FvmEBOk-AEMbK7fpQNgIxKlAYs9975b504ugIaTUpusOaaBkZzujeTCjjmyeb4SavcUGNQdmLI-IgOAWIsAhmRCOJejPk7dOSFoOv7m_/s180-c/gomasuri_businessman.png"
+    },
+    {
+      "character": "け",
+      "reading": "ke",
+      "vocabulary1": "け(ke - pelo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDMgUu4OzbHkyxFMVzSXC7yt-HDJTzXapHhsWUf8j91He_0WXYFTE9wbk9-ZS8v1CodRckyn83flvtXWJa3gRnVqa_AVfcVf2P6dddebPyyaioajZu7zZucTurHEA0ya9HDfvPs5UkpLc/s180-c/saru_kedukuroi.png",
+      "vocabulary2": "けんか (kenka - brigar)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7BSexhAyqtY98xK5ZEW19puDfRSU5CImo0wOT49Z9fKJhALC4r4QTHaQ3esUmgQzT3JOj_Avb-6vKyLHaRi_Fk4XxsYCmCUoVCidQOW63kEXigKFYTp79EShuhm0k59QmN295XF6JZw/s180-c/kenka_fuufu.png",
+      "usageExample": "けれど(keredo - mas)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigvvVP8V3FID2RKfAaaz5JFFmQFr6-edjkrpATsAsor2ctRcQ7LQPCjUrifVmyE5XXJX6-c2ytAql428CGoMAOIDgNku1wQcq3vHcIxggAbkTwiZyRYq5RcYzujBtwa1cPOPx46_7rTzc/s180-c/figure_shock.png"
+    },
+    {
+      "character": "こ",
+      "reading": "ko",
+      "vocabulary1": "こども (kodomo - criança)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgkDCMZIyX94Y5xngKSDGoraNNlI7bJCO6sFRccNFxC0DL5cDSuCLceRu8p1iulbf7uxEkhmQIh6IY0tZWkCLPA-5CN_Yx8F_JARMAH48qVClk53vNUc7Qo6qIYGbHd0d8EsHRO4MUSXO/s180-c/dance_youchien.png",
+      "vocabulary2": "これ (kore - este)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikxqM_sspJK4emWv7bx_ZzmV-bzCHjZK4ohVWMveTmqAOtQE64qYTn9mNIlCnLoTN4fWCs5XarjItLvri_iFBC9s9sUKpMHg9ArLJCcyjtwmF-1p8S4X8Y9xKIFT5iBxF8Y2TMe4mGuZ-C/s180-c/machine_yubisashi_kosyou.png",
+      "usageExample": "こんにちは(konnichiwa - Boa tarde)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4XDpOoue7KD7ZtpZ_8CTF2sSIvYQQA82YWKTH8YpuSlwkGWvPNgY64FnXONkprdrR1AofNqC4qvsm3SugtVi25Rjp42eMPEgF4r4FFJC2GKg1ay6ENCrfpsmBisRm4Kwfy1unVRPBU-E/s180-c/aisatsu2_konnichiwa.png"
+    },
+    {
+      "character": "さ",
+      "reading": "sa",
+      "vocabulary1": "さかな (sakana - peixe)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIXiKEZdPc4v1xnDPBtFiWZudbX2SEoIiSC_yjMeUHxKwlCc6JyuLmtQ3D_urnOzz2NyuSx1_aONUCxGidCY3rr9qKune6pxcVbvwUGmH_0SVG7ArgDMdySCgzm2Ye4pDDhbTpkWcCM9NJ/s400/character_fish_ayu.png",
+      "vocabulary2": "さとう (satou - açucar)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWKmVyAxTXfkfecIyD_G1ti3JbZbiklVvY6Ix1mS06wvg1sass5eRB5dWbxdFOZOE-XiXocHc9YcC_JX8JYEk1rpaxgNT5_2dJya3e2teI0LE_btO6KNykCV10dbuaORdn8xRXJqY9wA/s180-c/sugar.png",
+      "usageExample": "さん(san - senhor)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix6IaAxcRRLJiTfqkcROqFSHzgCmV9baXuHYLJE0IhFU6oZfDY59ZtafQt5hEwhhWmcQnlNj67TKmSYJNDTz5Vg30V4-107xNLeftNvwns3YvIkQVLk83-gWsXYaXw1DFA3S_7GmpTIGE/s180-c/royal_prince.png"
+    },
+    {
+      "character": "し",
+      "reading": "shi",
+      "vocabulary1": "しお (shio - sal)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJIBJKFaYXbCnls7aUOFuoIWwdhYYe0HKKTlRQl6MAz-Xt40Y5RhMBATZIZegyiAcVJ3SnnQkwMf-shIZasOdWxkYiJu3Vtwtgy6yKJ4ISMdRqaOuZVaWv1Q2c5e0EBzWEYYovrDAw7KM/s400/salt.png",
+      "vocabulary2": "しろ (shiro - branco)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR7-vdTGZt9skqWU5KyzSNGXS86bVfyqqcOhNdK7sCVyVms9rAnY5w3vQ8is_J43NOjS9SGn35maIkmGz6FNGqVhbFjgTLfU-2bEjuhzxBN3_30ZpiNkVveRIVE-Tz24zFPxinkw5lia4/s180-c/kouhakubou_white.png",
+      "usageExample": "しつれいします(shitsureishimasu - com lisença)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOpUNWcUaEuOvuBfMdTWc9aylAQr-fILZn2uqVliY0M09zZPgBTdkw51jteBsGe2dCzu8ol_ffck-J1EK22r1b2QsItzYL6hTIoHscITX27VfSproMtFmIPab_nRhT3wNTODhRNTtRvD8A/s180-c/yokokara_shitsurei.png"
+    },
+    {
+      "character": "す",
+      "reading": "su",
+      "vocabulary1": "すし (sushi)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9tJtuq511Qwobg00gnKXbW4mZiUXe0TDmzgM7mXNSJarOhmMIMDeP89McEASI5IJf3x-4pWrm2vWn3uHw6gEd3EVxXOYx8iIf11lPNsBnlajSYIBt3m9wqW5959ZXo59IR4ucUUyhmgY/s180-c/nigirizushi_moriawase.png",
+      "vocabulary2": "すいか (suika - meloncia)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcz6CLn1iHUeTSrZWlJym-AvdVkM-p9p-JakM8O2zlLG5SK2huWJkJRVqAwKmH9Y6TRVT0U6mTWOazwxAP3eYwKZhmxlelkrLyFwYudXINXsh2jcI-OFbl-zh9TUKnuo8J3wvALY1pQhVS/s180-c/fruit_suika_red.png",
+      "usageExample": "すきです(Eu gosto)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6CyE1gkU4DnBnjw_esM5Fuys7Bt5w3acNUFal8PadnW8mHSwiKHKVvIUiGytQHYWoNSwiu5PdWA03t682sm3CIBi30xMhz25pqH6-S_wkgBHbFgEyBlLgJ-n-d2PKO3kLhX7eHnrHkxpV/s180-c/idol_syamekai_man.png"
+    },
+    {
+      "character": "せ",
+      "reading": "se",
+      "vocabulary1": "せかい (sekai - mundo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLot32_hzfmUB7m1-LIv6_xteBQRlH4Iey2JZS55BblEHBinSLV0bpkP1Xeqvo0XsAcgobPjwHT-O9OkfbCQQnLvO94rI5YD8-BlYSarX6E17DyZEzSxI2Y6MCxualAgd-R5tOuGjBt3Y/s180-c/world_children.png",
+      "vocabulary2": "せなか (senaka - costas)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLB9KNAK_niP3AfoTPAzeur1gzUJHuGt2nH5aziDaC1fKKTnzHYZhS2t6Y7AOYzGuIKuyX5B2nhpRUi9NxtsiATjhHuJGXDhh1kotcNYttgofqB2Hvfq9o3I-hut1bFYFA4s5OiIITykc/s180-c/kansetsutsuu_senaka.png",
+      "usageExample": "せんせい(sensei - professor)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cVGchklhipf-oWZV29_qEMbfma-eB8Xt3sfKNcgoWCtwnG4c-ElR7pzffKqG9-1PprYMJ8cJMBuMwrK_Uq-LGJEw4H7y6MzRfZI53C83A-qRD0Tq32bbPb9GNQ79s8xLxHDD16_RS91g/s180-c/job_teacher_woman.png"
+    },
+    {
+      "character": "そ",
+      "reading": "so",
+      "vocabulary1": "そら (sora - céu)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMRZUfRU0Ol2epSX9n4tB_x7qwcDJ7e5BwC-qXs6cwaoo0C4tUD3Oyg_5oGXwoejtMX4s8OV_qYLcHmTI9wfesnJYvkXLyZWyQrEpMHALe1qt-LkJJPMyuthLpgjjSpGtdOZYDc2RR6Do/s180-c/time2_hiru.png",
+      "vocabulary2": "そと (soto - fora)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVM0aGiYF8AWhPFhbLymBPrU9Iym5CP4Df8yqLqrW8tMR-63pvsf6_f6GVZ1allJfHkOJ4ysiHLkvTO9m53JThL2Gn76q-jX0VN-as7-AB9WCYadHj6r8Hkv2JapNsMwbYxHLhBNSUWDd/s180-c/hirune_soto_schoolgirl.png",
+      "usageExample": "そうだね(soudane - É.)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTinKB6bn5WKUdvZiJJOeWNk-2IQhBwrxR2lyYX1mKMOyBiB3X2-YU8CiVEYRC2A98riPhKQhhFmtVO0ed_G0gNahA76vYxRewHi2eRi_-JwHixBaW_QVjKXbz_v0vjlp-6im6Ze1-K0cf/s180-c/friend_advice_man.png"
+    },
+    {
+      "character": "た",
+      "reading": "ta",
+      "vocabulary1": "たまご (tamago - ovo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJiXZ776gvcHzINyDSqqeLMmssKeu9CmbVKfw4I6NWZHJXX3Xu4C6P8fxINbDO84JsgIxD2wbB56bW-EZXVvRM2PM4Kgxvi70fFtFFUMALGkf_oj7NBIS7n-UNtwEVWl-BxkSUkin2kMp/s180-c/food_egg_uzura_yudetamago.png",
+      "vocabulary2": "たのしい (tanoshii - divertido)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5Neeq-_a8zbC4ilwUr_x1gB52xA8pXXfl-peKKTZ3ec5BXQFzzMoFmvagqlSm07pQZiy0tK3yx-DfN-iz1VT10Y5Yh-GeOJ-uGQlzf-qyrwG_nexgkOQhgStL8Tu_1VlLntyAodrZAg/s180-c/nomikai_happy.png",
+      "usageExample": "たくさん(takusan - muito )",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjKoUQA2RNDtpyf_etc9CVDrZ2oTUgAME38Kwo06wqhQgR-zf_zncCp8US3bSGr10_ot5eLbnwoZOrIxiR9THDz8LAyk7SeNL8JMAseIkIUFNKWsIi_J3HyV5qjC9R61czP1DZUO-pVFe1/s180-c/kankou_black_shopping.png"
+    },
+    {
+      "character": "ち",
+      "reading": "chi",
+      "vocabulary1": "ちず (chizu - mapa)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkZy_cxIPtg4IlvTYi_4mgVAvZ6QqFBsrw0BSplymJ-ClZITnyqAOXvmYCXNUDqt7qFaXzyzxRCKyTUxk2avueqUzoDVEUGD8QkbkWot7vWLuz7qhCe0YfAKXzteVW8UqXym0UYcM-ik0/s180-c/map_open.png",
+      "vocabulary2": "ちいさい (chiisai - pequeno)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLu3ucdcBUi0Sxepqh2XdtRYzzyUu9DBQ4Zni9iJnfAki1BPl5CtOu3wfU7TPdtup-BLAU_kK3i1N7DsLoQ0OlOeU8Cno2YQySFTQgernfiWUur-U8SaQeu4H5zGHwRQn3708iv-wkBmjl/s180-c/animal_usaghi_netherland_dwarf.png",
+      "usageExample": "ちかい(chikai - perto)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEMxGPlTjkioYxzYAZZ_XtHf5w-qnx6zXmk9QZ2-mPLi-tz42N77_lvYtRFsZ9HZ0bhyGmrNHVK52Zp0Fwn9pMxP0LlVlAB1ygPMY1oezsQLc7ZO_qgqry8vsA28zDJi8u3HeYgYD1yk1b/s180-c/tv_girl_chikaku.png"
+    },
+    {
+      "character": "つ",
+      "reading": "tsu",
+      "vocabulary1": "つき (tsuki - lua)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Jr5JJEi9-AwDLbNIU5-CCa2S057IggyBb8OV6CZgveGr1yqlRywLjFZf1YTXaGLQXzcSAm6pxc3VR3-fttwfgyOzfDIltL_Gr15nde5Q17t2jFbsiKTogIT-2CaonRZ_6e4qG9aqYtk/s180-c/tsuki_usagi.png",
+      "vocabulary2": "つくえ (tsukeru - tsukue)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoLnxqF2VP1al0hdsg3qAgH5lb2KA85pPT476pqKfign0y0ChDxwtKTF0H1nN5ZhuXKchURDE-3doq0HB8gsnTpfRzGWmXqDE5hfIZMf3zK4Ti6OPi72jDKHZJzK2UPl_zfnVAEUIY-75/s180-c/desk_benkyoudukue.png",
+      "usageExample": "つめたい",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggqZC166_ARVJg75EHqJrTX0fdUJI1JtzKtS3XuroSWfMC9gFs3XJGXT1m2cVLkUDHyg16XVBFaK4oSkikVFF-iltWxD76iWEmySLt0zLiBf2cYswf-mq3PPN-_m5ccdzr8bxCLKwCV6E6/s180-c/ofuro_shower_cold.png"
+    },
+    {
+      "character": "て",
+      "reading": "te",
+      "vocabulary1": "て (te - mão)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnRG8DxmXguhyeZk5YZTAozFfBfBb-dAZVVjOssn0BGlcBG1Ct0s32knfv0tv8I5EUO7IpxygPtxoIwDnB4NwPQvfpQ8IvY2tl9hdWgJ_tZvFw84yuG4F4upztxCnBVcXhJw5il-OanLL/s180-c/kinshi_touch.png",
+      "vocabulary2": "てがみ (tegami - carta)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQuES2pB1jlpyM3CHj1u_579fdkvHNnHmAyLrGuB8SBpFrQyH7lfIQGQ2fDjaqq6UAa552wOhI2H5z9WPiavosgRSSyYhyK835HPBDdLqvJkvMOLA0lnNmNbBpHLNqGkkS2JrOghG3VLto/s180-c/tegami_bird.png",
+      "usageExample": "てづくり (tezukuri - artezanato)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdPKMeJDn4WdRIgtPJPwG4dF6_cdxyIKe3y8DBVemucyMlsKuGJ7E9xseuo5MBWRzYHKmqN3hzvVDKG_1VeCPnnj7X_r-4giLdUXRHJr4wfMZ7BZlnKryYDVl6uoC6VdZ6Mw_kxlWXqqY/s180-c/valentine_tedukuri_girl.png"
+    },
+    {
+      "character": "と",
+      "reading": "to",
+      "vocabulary1": "ともだち (tomodachi - amigo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvPgK4ZgSLdoJjvdDTs5q-BMoh56BknOvV95iuiYxzV3FePmomMV6UKKnbl_r2PY0qbXTssPmZx-PCYnkeoM_2kEPqPrEShO0ERAqqKV5RpTZwa1qT_yJg7Bb7eeaxSrebj09BPUoYgkif/s180-c/friends_hagemasu_man.png",
+      "vocabulary2": "とり (tori - passaro)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEB932hVgaKyqyxeyF06KSDpf1rdTcb0ThAPck3ITd2-YlUkv1lEg5LP31-hrbM803OSOik5fgjSWVU3rIvq137LvTet6dAKjoIZk_cMvIHitiYuLmmFES0lRBe7xeD2cUIyOkadngF1IH/s180-c/bird_aoitori_bluebird.png",
+      "usageExample": "～と (to - e,)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDH7pJ2d53rzlKcb9U5eDD9ZVCO_Ot6IyPJpctiOsqAvykFVG0yYo04h4nKugWqTcEC9T6BlQNYJ9lUox2k2SivL9gs3VBGRwQ8cAjM6nbBG-n1sP8uY6i67Hm3fvwjvqGhaVi5P-dgHme/s400/tsumehoudai_yasai.png"
+    },
+    {
+      "character": "な",
+      "reading": "na",
+      "vocabulary1": "なまえ (namae - nome)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1O81a2fVp7OoT30QVG34yY0CvsxVune6lAcF4SqUX9Us6D0XGFJI1BvyxQ3NKL0ZsQnnfxx8P7qW_yJyRTWD8OpyQUAsujToYUR7UCyC5UUbuLzzzaaOn_zH3L6yf0eSxO1FrgM_CB7l/s180-c/pet_maigofuda_dog.png",
+      "vocabulary2": "なつ (natsu - verão)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgZpwkj8cHnkB2uKPxb1GZf2S7yWdIbW1twhIJ0Pf1dh3RdPWCwbpdHbNfyFUJaJVV0AXX5J2ajSZXtdMA2ZpHxik7Wo0q020aRfCRkmIU7i3hub5aGUft5koZSK5iPuc9DJxSQCVre7Mv/s180-c/natsubate_girl.png",
+      "usageExample": "なに (nani - O que)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8N3KVws8hSt7LQOW1FyytoP3JaPKYuBZYQRy9Bi6oUXuKb77jkD56FdxmBKZ_irpueh1wVe8vniGDxuSDp48R8OeRlZjrTxT3IFxD9PpSwEDm-wvF0RmkIZ2Hxufb4Is50xA6pJdgPLp/s180-c/question_head_gakuzen_girl.png"
+    },
+    {
+      "character": "に",
+      "reading": "ni",
+      "vocabulary1": "にほん (nihon - Japão)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT35GBa7nItyX8neALWotRoWJcbKG6ZqyN_lq4ORlsST6dhuS838l3QPHTQY8UA19dw-dr0clKHt9N8ldH2CLwb_kpPv2z2-dyri5PqelMBklPe2jeZYk-xIamQJqsYUCr_Lw-A53oDoI/s180-c/hata_kokki_flag_japan.png",
+      "vocabulary2": "にく (niku - carne)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJ7rLFDN9g_CX7U6JeD28QSfMJJUpR1JHIXz8P-mIgLTM6Lz7pVHUDFWe01xVeR49rWpi25J8diuXYFHW2COc7Hq913o4EdIiZplWYOHF8QiQpO_EvnlNFLZBsU6rLQYSwztKYuXuCEQ/s180-c/food_niku_katamari_abura.png",
+      "usageExample": "にがい (nigai - amargo)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8VmGOn_PkGT6suhZYzwuTagA79_7A0aAfOIyzGiCFNRDe0Gw4CMTy0IGBSK9xLXRVSWeRHa1uY58uBMp2TkRliYg-_zIGNv2iCi1fhi2aPP4LJiDx4ilPrGqXo_ePtjuIYQxjVsJYfwg/s180-c/mazui3_ojisan.png"
+    },
+    {
+      "character": "ぬ",
+      "reading": "nu",
+      "vocabulary1": "ぬの (nuno - pano)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrzWvEFqPDH40VHY1aA10YED1yFWD74HBArQX1UAEs-JOUnphUPFjgu9hQVU_U_CajYfYx6-yXgpjxXzZRKZI_CyurNhfauSQRjlvq8iwK_86yux9O0M7TAIG5BS7jKmktKs2v6s-yBfdn/s180-c/cloth_yukazai_sunpou_cut.png",
+      "vocabulary2": "ぬいぐるみ (nuigurumi - boneco de pelúcia)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheduQjyFpWC1EaFVGjZ9EP-GIWI4qdCb8KPMGLune7BsVAff-xA_FDRZRPHfjXTx3yllWARMthTcSjEpJz78GoL8_mygfOOCyU3ekb8CVIVsbNknArADaYV0fbOSwIQFsgwJyVU2KJltiw/s180-c/nuigurumi_bear.png",
+      "usageExample": "ぬれる (nureru - molhar)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZINKkJqZIZ1sXNf2uX0I76QVWTvNBFYOXAHqPvVSPasuXsasE0baPK38yKdFU4kTSx_Q3eZ2ztm7vR4ht78StZyaAFDEzExhmk7iI7jsQfh_PtZqxQzEtQAskHrJM5Q-yj43UJeqLObHq/s180-c/pet_ofuro_kirai_cat.png"
+    },
+    {
+      "character": "ね",
+      "reading": "ne",
+      "vocabulary1": "ねこ (neko - gato)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM9WgMlgg7IxmeX4J7Oi_L9UzN2Cto1jJ-tqN0RYL-0504suClb38ym0Tk8oYL1djdzBdPs3h7YfZQD01jMQjhC_LFFZEqcGZ7eknx68OdDCKOixY3x0OlioKX9cCYyXD-JEi45D8kyCY/s180-c/neko_oyako.png",
+      "vocabulary2": "ねつ (netsu - fevre)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrtGv2SqNuS89rp6xDqcG0Ak2eFy_ej3kyJhcRccdbFDi8x-5Tebjs8f1VypKcZGpgyrJkRqqhCrUNl9c8F0WfvZJdL_ysXP5ovsM5pSk8WleySQCF6o7zfUvDsbH-1RIaPq4XyLHPU6w/s180-c/sick_netsu.png",
+      "usageExample": "ねむい (nemui - sono)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRDc7-_ueDvVtNIfixG539vFBWogmehsdqU3lSeipppaX2_YCoy0229HdgeG5rZbbThyA9YzpVmVi-SwYMBg4OFQv7UaGiuaB9wsnlg4ZZi4_gymyZ_9vgNbq0FKq0vDwYiDTRLaB0TjY/s180-c/sick_narcolepsy.png"
+    },
+    {
+      "character": "の",
+      "reading": "no",
+      "vocabulary1": "のり (nori - cola)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6jpPT5jSb8qgqJXcNTEPPjiw6H56hRqOu9_rrMC-fIvp1CiKxMmzhJHouPkMeIT2JDBmwtXcxjnt8WBCnjJg7aZ0RXahOiFe11ddm_2x6Jsr86ZeDd4aTq-TnZbcfCRbQZRkY3ww5K7e/s180-c/bunbougu_tape_nori.png",
+      "vocabulary2": "のど (nodo - garganta)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdOPZaxy5IjmG-yN24uW6-aMcka2I0Gqnv3M8CRU8wv0fH9lU8uSBKtWzIsmN5wJwdyVYSWpB8xemGA7jLaylSFhZVikMT7OlRl1J2Vhvkx2niUT48080ORuUxGUynKmcPNvGba54maxf/s180-c/nodo_itai_woman.png",
+      "usageExample": "のむ (nomu - beber)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjth1kHKkNPWBkDcI7CaXHcOq62_zGn4Gm5no_z69jPvUsLQik8lHTgskdQqtEE2JjBhguZl-pjzhycD8uLSyYIsBsEx63omyLaXpiaNvW6WcXTmTLkKW33vOfPAvyO8tizi8zECzHi_6cm/s180-c/drink_glass_koyubi_woman.png"
+    },
+    {
+      "character": "は",
+      "reading": "ha",
+      "vocabulary1": "はな (hana - flor)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkpOxp2-zmCyDe_izNVMT1URxytIpFGxomird4gDBtnfxWR1bXr9a68_WX7zLUMIb7YsRR3WeqWz4FSRluuO7pwTg_-NZ_0d821bPVSFQwTuiUcMh3I48DW-YMdyAjy6FTOdnugYqfYLRU/s180-c/flower_kobushi.png",
+      "vocabulary2": "はこ (hako - caixa)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0evgMM9Ax4RyinjeIOCA_6vVsgFmQwyEfuEnm95a3uv6gWN5QSVb3SS9wqYOHB3sAeno92N_vdS_C160UL8ILjIxe4naoHSsey4dbxtAkLcyeGz7c-e3dDY91nB-9JXbSGyGehDgJuRQq/s180-c/present_box.png",
+      "usageExample": "はじめまして (Hazimemashite - Prazer)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8oBnavnQi0ySAoCK28lewHMe5RpqSWrdzZJHBNLRkn2nUJLZVfpFt5MWuGOh1DOsnHNQ6-nC9PEFLN0dkezgabsp41dkI4qf0MXrEKR38R2miEG2Osfoufe7POR2fj4Gs3DSPgFaOVvqO/s180-c/syoukai_business_man.png"
+    },
+    {
+      "character": "ひ",
+      "reading": "hi",
+      "vocabulary1": "ひる (hiru -meio-dia)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4XDpOoue7KD7ZtpZ_8CTF2sSIvYQQA82YWKTH8YpuSlwkGWvPNgY64FnXONkprdrR1AofNqC4qvsm3SugtVi25Rjp42eMPEgF4r4FFJC2GKg1ay6ENCrfpsmBisRm4Kwfy1unVRPBU-E/s180-c/aisatsu2_konnichiwa.png",
+      "vocabulary2": "ひと (hito - pessoa)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ExqkB9pBDv-U4ADrun8XbAZvk8QZ88R5tFo8dUUsul3_YcAONNgcGdeqvyrqnUgPAG-V4tDa8lZYCOxNgMgj1rto7WI0_sU6pUvGblhHJuVpaDKCw5qEIbhRSzHntZGXe9AQbdiKiY4/s180-c/kids_ryoushin_mimamoru.png",
+      "usageExample": "ひとつ (hitotsu - uma coisa)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDne3RNH0VVPhcdIS6EcCi4LeZks9Y-5tOfQpzlkH2uIpsko-r30rhsX5JTJMG7O5IY2YOHfAUNxdLkZegn1Z43hcs5VgfmcYE1tcMMnNPw80HIXObGclxc347IhI-9JvVgzWjWscobkd1/s180-c/bird_mejiro.png"
+    },
+    {
+      "character": "ふ",
+      "reading": "fu",
+      "vocabulary1": "ふく (fuku - roupa)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPZDLWiRUcdEI3kbox_PHVQg1EIY0Rban91thZamnkTqgQOQQDuLXZueYgze43qXEn8uXcVNU2UOuFBOuHuGry-8Gj-zGjlJxZAqgTJAYiZKE5E_qEN1e80cHUv8b68ULU5qGOvWuqqd_r/s180-c/kodomofuku_boy.png",
+      "vocabulary2": "ふゆ (fuyu - inverno)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVhRz7clmhqS0kUftKeFf_t0QgJ2NmhqC1z3dEWVulAGYNqoFXWclf5I5WFUYrGU8nFtfoV1fhf-p6GcmsGsbXT_Attv0oyLpkbDePu7sGOP92daZCmCQyhsczDqsNeLzuzbH9FJRlhM8/s180-c/snow_korobu_woman.png",
+      "usageExample": "ふつう (futsuu - normal)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB6juEYfttgVY0apMJSzZRrwxELXnlzDA5VujgBitc1AY2sgDAiRjJnEXY2MFCqIaK3gE2IWLx_Zx4LXAqMRZ6yaT_dOKRCrIfCIsejvT_k0aeUMONw0_q6LCtFYv72cSqM26Wy3ogAnc/s180-c/ochanoma_mu.png"
+    },
+    {
+      "character": "へ",
+      "reading": "he",
+      "vocabulary1": "へや (heya - quarto)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnleuCs6-IssuqnyrLzeLe_NlPeYVssZzX1yjIgrTFHFgTBAxc1Orgi0VbGhSDW8s4vw3kGcz3eQwu-_JkuZ2furrsVnaiKPhdW4Pf5JqAwWNVzu7dtitfEcy8eOcjv4Xq27ROQwjZiKut/s180-c/room_kodomobeya.png",
+      "vocabulary2": "へび (hebi - cobra)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgouafaTtyEHtfsaE-ci_vmKobINh-B9KbAwyJpUUMxuhHIQ0Ke0t4i7NEB7_1wq0o-3uk-qAHqH9OnXRx7mMjkeWgpEzuYzfH4it2975d3Hdx1DKVPj9jBUC_q3HlY0i5RUNiio_euxfRX/s180-c/hebi_aodaisyou.png",
+      "usageExample": "へん (hen - estranho) ",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg53xpqJfRK4Rfxb_dS-duqLcmQCeDjQCaWo69rUzHr7X-xS9V0TcpXWMvLE0zKVMwxnBI-x3SOFjBhV2EjrDlQ7CuZPL6GLz4mASQHUefZhQ1psDmYp9AgsUSoLlLzVGkqO_075Z9QxgAN/s180-c/hengao.png"
+    },
+    {
+      "character": "ほ",
+      "reading": "ho",
+      "vocabulary1": "ほん (hon - livro)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8wWuuMweyqtGLboogSSbhBr-04RR4TBfbQHcO0aRw2zeBk-REr6e2L3pLc06L5B_6uiFYpvcuKq7SltIrj3MqqW-8WNuo9lFDi-9qw8xFJ4Pa87kcrLc9qSxon2woWk1SvJIg4pqMPnHp/s180-c/book_open_yoko.png",
+      "vocabulary2": "ほし (hoshi - estrela)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjew8WRowyGWp8c9UCBt1-UTlv5x26ARsHAlPY8Q3u5sPsApoVyF2rAbfWN8LCcKnSFhoxex6pzAC6hxU3_c-4d_-ChIaGOHjIWe8yhIfZk8maAv6o4R-ocEUXOXzCQ-XYfEsVE4A1Q361U/s180-c/bg_yozora_night_sky.jpg",
+      "usageExample": "ほんとう (hontou - verdade)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQULtkJcQOSP9gbRk44yK1uxqaRlnTN0uo0XXfUj3fc0kzXKg3_kntUtaA7fFaYaoeHQGa7ue0q19_Ad8_0GH5q912uHwxuIykDKIeOkxolXLdOymENq571PNFH6XzTdBYV2u2pw6PxP8/s180-c/juuryoku_newton.png"
+    },
+    {
+      "character": "ま",
+      "reading": "ma",
+      "vocabulary1": "まど (mado - janela)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivcPERL9lXQkxfqnrl1xhDQgPP_8RIhTBXJifv646lwsVzVBX29F9mKObyI6pFQ3Iqb9FzH8cQAy7cOvaxPKpWkhhCT6vQTrq6iOKF2hrITfacjRsIbA2gSW1yVGF0hVB1eiOz2PT7wzY/s180-c/oosouji_mado.png",
+      "vocabulary2": "まち (machi - cidade)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzhWexllBJzcTFmMGW27f6rj3-5_yKayjv3egMbrREeCnptQelJMJwTmgBCgs9hRm8c4LQaz80-yufZDxsyfA6DVf9oHfB80OfK52ZzaBurfgrYjxaGa-x3VUIf1YWeLhFk6j-vkST3K1E/s180-c/shopping_syoutengai.png",
+      "usageExample": "またね (Matane - Até mais)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKgdg38xSyfXuCEYCrBdoBCMlq7mNNb6Q2Dre0riieojT9sgkT1VZf_yaEoL32z17gdfnmfe6CsSTr-dXy8jbhoILDpefi-C55wwPWvhbQUyH0eOQz2fbojAa35HnaRyRf6gqVS1kva98/s180-c/byebye_boy.png"
+    },
+    {
+      "character": "み",
+      "reading": "mi",
+      "vocabulary1": "みず (mizu - água)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjseIS6xAVpac1WsUuzZBdq8FX7i8VOC0h9LwkBILi-3JYuqiHqVmieIKjgq8YowBW3kdio_Ruf9Gkcm3DVVtw0epZlzQJ435y4KiTB1u6jzN2uS7x318CRg59mTqomiDoaFYhjKX8FAfr8/s180-c/drink_water_boy2.png",
+      "vocabulary2": "みみ (mimi - orelha)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEUW2rYBGsNMuKMhb94T4AYrF_zl3Tj4tJ9Pj2CfX_OzPPCoIMtLJAypCcEyQ6rnROgcVZK3UpaWyxOMxu3dye4CJn6Sz7pBjF3a2eV2Es6cT_y8jPKRdAvmpJfHi3AnLNpGh4QXU5OLc/s180-c/nanchou_ojiisan.png",
+      "usageExample": "みんな (minna - gente)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOsoC0jD1lUXFqX9U4-JJGsBJvTbqOXzSyEPQrBzFaLeyIKuYZT5qZ8EFfhXCNWzSd1yceQ1vrHskyDrWlJnsC-3yoJTpcjIfTbaFLYmjKKyHxRMcmMoDRCT56nU6Ks6pOZMW1Ks7l4vS/s180-c/kids_paraballoon.png"
+    },
+    {
+      "character": "む",
+      "reading": "mu",
+      "vocabulary1": "むし (mushi - inseto)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2QYWZtZaHovbPHqFayr6fRfSkpidkP0OFGOJwGarzLVVm7rd_5Xp3ZdSHjPj834XaxZIVqw2xjh_boZBuvCmLKeOetfvs492gP0rTKBXP4ZZH9dNwY7FtVYLi6V4TRK_TF5jprO0KyhG/s180-c/bug_mushi_nigate_woman.png",
+      "vocabulary2": "むね (mune - peito)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9-tGEYdn2OHjENdajjPM7W_vtsaU_LPCJSO4xKQQXKynyTaZOSrkcMDn9WIbyygkU6gDnrgwGcE2Ke44xr9sCVrM3ylyj5ssIY-cdPWO_ZdwxCrzoQ0pMqqRfhnKdzQZ6mVKmUdReOAZ0/s180-c/sick_itai_mune_man.png",
+      "usageExample": "むずかしい (muzukashii - difícil)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP6OfvrMWEap0JyvNEy3xB6xRYFGAQw93Jm3Mx2ZNFgbrjI78ZLpCif4qcLrV6UreCg0H0kiEqTqjF-DgY2wqzm0ufYcHgdGJrcQPF1AkUCeJs_WDTCtYWU3EyJ56G7WGFYe-HuTfLl5Mu/s180-c/study_wakaranai_boy.png"
+    },
+    {
+      "character": "め",
+      "reading": "me",
+      "vocabulary1": "め (me - olho)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGaEGmEdgWQLDbfjFimlkkqmkF9YYgjymqFt_eoGjg7PcfV35pm7QY3ONEzMC8jnxiSrU9ZZaTjcDXcue5yvxR6D3DkmxGw4IOK38Zscp86Y3-9DU1Tb-8YOnl1olwMl_I0tGBED3ajC0/s180-c/body_me.png",
+      "vocabulary2": "めがね (megane - óculos)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwt_djhQpg__P_S6sI6ZmfDrQTYN_K2fK1cTf03HTAANJ1xzb-86AOkbmyAylFvifIgtK-pBDqF2eOY87TSnNZdJAuZqGQnRnsidkILVJiDgsOoYEumn1U_4mdqTe7Dytv_ZtmEF497jtq/s180-c/job_suugakusya.png",
+      "usageExample": "めんどうくさい (mendoukusai - preguiça)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QNvWLY09qaIoNmIp9nIlkUKlv4aIbgi_LL8Lyh0RqJLENnY01O53Q-nB0mDXfBFxAjXl-HHRbhiAlTHuL470ZOOvofpD_nIxKxVGPVTxsBd8ZdlR4LwhYas3vatwLDijcdUgbQuDWVCN/s180-c/eye_ganseihirou_computer_man.png"
+    },
+    {
+      "character": "も",
+      "reading": "mo",
+      "vocabulary1": "もり (mori - floresta)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdLqIwCVhy8ozY6HGvjn6ijFQastXtvtOPktW1SU846yHulJWNYxjHsak0dQssuL9wbdVCPKxjKxXtdlf6tYt3bwdQT_71wwSrJASMFdcsyz6Gpjboo4F3zARAQML1BgHmJSeMVehKnY4/s180-c/mori.png",
+      "vocabulary2": "もの (mono - coisa)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU3bT8Om8wpYNBSphXDy0LAIrNKFvn6ONxElTN90ekuHals49c0dDv8jcCse07zwHauLyKM8hV-DVak1mzOixULI0egb3ZshzoytLn2BLcc1Xk6NRRKITJJbxRS6ZO-SRUKmDSbOC2CYrA/s180-c/omochabako.png",
+      "usageExample": "～も (mo - também)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDy3yP4Q4H9-2ZJaTavcARaXpwEgfDZVGqxK2kvB-ENk9QsWKznxNZVtFLButU31OozUV4Jdmrfy-IbUFc7IGZDWOYZQo9XeWtSfUY4ftGbxP2zi6x1NT1pf6XxndfDqTV0NrVajQ5-at4/s180-c/syorui_hakobu_joushi.png"
+    },
+    {
+      "character": "や",
+      "reading": "ya",
+      "vocabulary1": "やま (yama - montanha)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdbAQkRo4dUuO1KFnYA5Wi2xt8HymDVR6Q8nP-KKnxUsw_rs90lY7DrQegVTy43p6GFIlQqbnzBO9kasy4cTIRQ7Ov7cfaxE0l2on9w5WoPlDvlIYEn4lwsoJ8Cqrq_nipk6iDkdZP52IT/s180-c/yama_fukei.png",
+      "vocabulary2": "やさい (yasai - vegetais)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-IlSLjC-9knuwcGApmQD10dmq0A5pt1HC4hTngOejSY1t3y0U4MML-SiUrHYO9Bq1q6Vl43iwBniG0xjtTLAbjF9zBWEVbFCAk2oIwiOgRaUBYdAVZjyPwKGOFaryb8YoThx10-F1UM/s180-c/vegetable.png",
+      "usageExample": "やさしい (yasashii - gentil)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjbacJ9GO3TEbpveQLlO4KFNlI0y9etpEGfD-E2F8cesFXru94AefuSg4c79in7J38_ypaZAvwjttL8w10pzZgva7axiJrSHsIy1R0jxuksKFC_EzdcBbpPZuoapeVvVKQvy59lPzEhIG/s180-c/suteneko_hirou_woman.png"
+    },
+    {
+      "character": "ゆ",
+      "reading": "yu",
+      "vocabulary1": "ゆび (yubi - dedo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRPE6pcFG4wCzMgSaL9DWgH-JNJvaC-D2_lmWAEAemIn5O9tHTp8iP35R9RtF7AZka6CPYtqo965dqSddyDT2_LtFwIHzwEKz-BQZvJ_dX12-9F7OpmWWRJCMRocti2fwJDvse11yX-S4/s180-c/yubi_kega.png",
+      "vocabulary2": "ゆめ (yume - dream)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFDp_SRqHLwuaUE1isf_timr-jS9hiLcNwYaSQoAjqfk0a_oGZWHgYIjyBCHqw3KZzYhBiw1JwuwdO0opfkM_bUpQtSHyUFdGl3nRqjTmoKNe0tPC_joGmqIPda2G8qkehXWXUt67UUs/s180-c/sleep_yume_meisekimu.png",
+      "usageExample": "ゆっくり (yukkuri - devagar)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRCV2psARSTnIS2Uor-utbfClTRO6zqjj4XYrvbaY-sCVGYEhoFmmVzHyaZJsRlrFXsknGOPbw_-i-G-OwKdpEiMHOf8k6Tlw1kNjS8XSR_WtzgpqSGrsiRhE16JCi23b67kQMDg83-nMv/s180-c/speed_slow_turtle_mail.png"
+    },
+    {
+      "character": "よ",
+      "reading": "yo",
+      "vocabulary1": "よる (yoru - noite)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJe6-g7uPSgWzeWalyiGKvU2MRRZ4Lzx7DWTbGoHqGBKpz5Sgzk_OTyMQphnlUNITeRPYJMCM-5T8rKVJ-Ynw5ZJvSAh3RhWSomLUkMmZirvAhJtGgB1EUeMJixZffJ1dojg10czGvmfQ5/s180-c/bg_snow_jutaku_yoru.jpg",
+      "vocabulary2": "よい (yoi/yoshi - bom)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL3Sp-5fJMJVow9QspWl6yEgYVNQQCx5Eql4WVcsrJCbMRt12jn9KHKP3Mi0LalLzpcn9KzsbFIMQBPKIlwTZuIIORBZEG5wAd7nkZWA-rDgk5Fgkuh8-crtLPssc5MaybOU-58-umO756/s180-c/ha_hanarabi_good_boy.png",
+      "usageExample": "よろしくおねがいします (Yoroshikuonegaishimasu - Prazer)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlRGEL80Kglh-KYnsfqTTlWvurmTzTSy_1kGflB9HHp1xGJG3JLp53iB9GgfO4ntmKy2V8qxrXjzfu3nLA3AinJrPSvU3KRLfJHpHC2CODOUrAbTXVb51SDJk8prUIRzJUzPa8UFN34nM/s180-c/job_kouji_ojigi.png"
+    },
+    {
+      "character": "ら",
+      "reading": "ra",
+      "vocabulary1": "らく (raku - fácil)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixpbMbObGlB-7JZJCu-ARbLKgFodXkN0vn2m5M0m_fPSuCOfSd03uelSbAk9llOXZeS3ZTsIix3pdlwpaD-l6vrqjXT3fT8AOidLRK5f707A9J8UT6dbHDbu16-qVpYWAYbWO6Nws_ldA1/s180-c/genki_ojiisan_nimotsu.png",
+      "vocabulary2": "らくだ (rakuda - camelo)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjaS414VDCdpwMTYH4MKkXmrOfO19OpnPDoONP_BatFUEINc8q201s6667k8p9tjuSdrY-lP5e9SiWNyeZcJOPCju61SSzHyXUIw-slSt3r4dbbbOevlwwFvClaqehLYXtk8S-LPXVvtk/s180-c/animal_rakuyda.png",
+      "usageExample": "らいねん (rainen - ano que vem) ",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilPfVARRDrXQlOMl0qtWjheljjECBbR_u5bTk9RQ4aH3zzDLlYKi0NK9bfX7ZC-qskJOn3X0DLoOOFKkvKzJRm3k2dbIRC8mT2oTKgaN4tUVtwpeDDb_uPlbVGsubhCHIl-i7PFu4fbv4/s180-c/thumbnail_calender_himekuri_tsuki.jpg"
+    },
+    {
+      "character": "り",
+      "reading": "ri",
+      "vocabulary1": "りんご (ringo - maçã)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiReo-clW-ie2iyVfoqgamuJqB2FMZt6SDeVg0Eiy9gRIJn7LZjQGdhQt5LgVsuczLIwcTwRVxufw4DIjZ3hNOAU9nGHDfD1RGc4E-SxwBEo3IdqSX2P0trhhbT2cvTjOkh_7zwqiXRh0ec/s180-c/fruit_apple.png",
+      "vocabulary2": "りょうり (ryouri - comida)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpd9fOyWqRsQ8dsLtlkd1Ey_p8HhRDNiY0GPrhGPndX53GFZDpDLMXujiP-mbEaTJoqJQwAYWURL64mf-psuoz5-_bbw0k9fhFfndaE8fNvLSzL-hloyx0AIGRZU57hypQIUJ8itXvJS1/s180-c/job_cooking_ryouri_kenkyuka.png",
+      "usageExample": "りょうかい (Ryoukai - Entendido)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg82ctAeRqhUtUF7ZmXpSEI5a6xGKexYFwtAOnnviGt6gp4oU9z33PK2HemREB9RFWjVBELUWPpq3zUzt4YEBAhJ6Ale8Jou6OUPbtzBQKuCkTFrZtmITZKhTMPyMt5K_7HsidZTz4JU74/s180-c/businessman_workaholic_woman.png"
+    },
+    {
+      "character": "る",
+      "reading": "ru",
+      "vocabulary1": "るり (ruri - azul lapis)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZXFpXx8_DxWMrgSLzaPUe7JFRYBQ1ekm-lBH8IIxlCQOUCiqhHL006LsZGPoNghuR7dBCWTDv109GWuS2uENLJTb7ALRfqZj6Mx1-xIYgLDe7ZQFuLGgyVZX44JvTnRp5Z9JbEd2YYIM/s180-c/nettaigyo_rurisuzumedai2.png",
+      "vocabulary2": "るす (rusu - ausência)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhcnNQ5IDoNUlI6LR86tx7URQtCXWQH1wos2K891K9qLViuXvFzFmx8wf1LDYz6wklhol7JQDBq4RHo9ltEW2pPJGfJD4izbCLL418u6t8vpG1XvKhuUf5Ham-KD-FPZXPwOmPkB6e88sz/s180-c/takuhai_box_locker.png",
+      "usageExample": "るい (rui - tipo)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsIgLxSjblqeF6MVanKysZ4m2sVgr05fm-KKhb3_n7kZB1nYn4PoGSZ6WeGww8Cewbz7uojQmtQ7PCiFJWt0k3GmlY6oJ2gT1S_sgDMjdmmqklX90mN8gAMjBobr2vQzuNzY32sgIVFw/s180-c/thumbnail_softcream.jpg"
+    },
+    {
+      "character": "れ",
+      "reading": "re",
+      "vocabulary1": "れい (rei - exemplo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDuKsQjh9yiTox7xuwyEsO81xO7qSIPz9LmFfyXU58DYGIiFlUNkoeAkVFAt8u3QVmfif-jve_qSIf54fIyez1fuo9xAxonbCKS4RXFr24hGbACkanDNTXy_8kJLa99q-8ZAh3FNLUT6CH/s180-c/test_print_mondaiyoushi.png",
+      "vocabulary2": "れきし (rekishi - história)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUV7K5g0d_ohfQtvsoatLzEPxkFa_Es4sA2FttU8M0ODIMM4cX7kV7cXhuBAyFThI5EJOmaDVHb457YZ1gl2Lcx7kF7ASQoPzqzQl9JyctLkIG95zQi6HqjMiBzaOa78cif6zWHtjKELAe/s180-c/nigaoe_youkihi.png",
+      "usageExample": "れい (Rei - Baixa a cabeça)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguVpgcOh6qf2LBmNgYJ1Lr2XVmJweDWGQbB_K0y6UMXgc7HYreATegItISFrWw5PXhvsciaxMZoJn4rFV8AUmPS4YJ8xIc_3pchAYGceEOMtq1EMPlCrsyXBBAiJ2WUG-KdEUuBxWLW4j_/s180-c/thumbnmail_school_rei.jpg"
+    },
+    {
+      "character": "ろ",
+      "reading": "ro",
+      "vocabulary1": "ろうか (rouka - corredor)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0pBqDipP8QxJ3uS-KuQtAL0udxv0Hw3oN0TXzw3If-ko93a9P9W2QolgewUhTtWGLg7kSZQsnNyJ18PcH8jHznlTQ-xjfLJ8_FkWtt1rmQzLKnfTcVsDyLSl6iSKrKmGBkbBqghpD8CI/s180-c/school_rouka_hashiru.png",
+      "vocabulary2": "ろく (roku - seis)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGhMgH2DBPkspmWGCMSztrXCw6OZ3D6WaLNX71xFUQyvr1EvUI2GCGLVaSA0hmDOPaoFXmwYtbBo2dAdnnv01Zv9hhl02lWu0vm7VaTGdrlonwOFh1NzY98zts-X4SV8k2vzxh9WsqCCI/s180-c/thumbnail_flag.jpg",
+      "usageExample": "ろくじ (Rokuji - 6 horas)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpT94DZnNzG-GhSlbziMtxdfzQtR6QOh_K5VDPRQDBgHP-_riw2OY38G-N7B22sPFofJ29RQfuAIPT7ZVfxhWLaKIgYDPCbIe3ytMnIUviF6fswo9NTK-DpaLjYEejPeBU6bHNEZDMbpMR/s180-c/nebou_man.png"
+    },
+    {
+      "character": "わ",
+      "reading": "wa",
+      "vocabulary1": "わかい (wakai - jovem)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvdE0GWNEwJu6N0BOvsC_kHVtvioM9vjIe2qu-1vKkHdqHPc10S9p2tp4mBjMMayZrdG0lK_AZ2nsGixNw74T6baDTorJlFGEDWbdE6tUbLz-v6UfpKsVLR3sBo1X1UOs2GcWxKrrSdfG-/s180-c/fufu_young.png",
+      "vocabulary2": "わたし (watashi - eu)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl9QVb_dRNxTeI-2JeOtlLSAU4uZoEaTo2fq-Jsr3flzROiTtkIycGZqh-NAzA12jIN7bt8_i3pXDRBpWxc4uJhCx6kQIhCsYy7F0bAHkAlVq-QlMSbB-OtjYD_9kDHxODrOGxTkf17JM/s180-c/pose_makasenasai_girl.png",
+      "usageExample": "わかりました (Wakarimashita - Entendi)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCHBgyqLrwRdbSM72R9PutXIqxbI9yR5UzXWC0TYIYVlKgHH5TzkaHijRkdxQMRSJx8upcecs2RGHYW7gVOSQPH-LUrPUg3esbqx5-7Q04BPJWD-DdzTealzGBQehfXpDeLxYe29MjQQgo/s180-c/megane_hikaru_woman.png"
+    },
+    {
+      "character": "を",
+      "reading": "wo",
+      "vocabulary1": "を (particla)",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "ほんをよむ (ler o livro)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_eqaG2VIWjIkr1c-A7lskz295-F3IpffrBaB5IIlsxR1I9zqqlUUHr96d8wJaft5jFxqSN4i_RV5DdNcqxHcxcr1xyMGZV1xPKu3Q1m4HO_sUNFgLBD3ERmi9WWvVsDnrPGAkwNADWmCW/s180-c/book_hirameki_keihatsu_woman.png"
+    },
+    {
+      "character": "ん",
+      "reading": "n",
+      "vocabulary1": " ()",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "が",
+      "reading": "ga",
+      "vocabulary1": "がっこう (gakkou - escola)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRLomNdh1bnxdWu9aAliYJBLBgYsE_gn6v5IgC21TsHDwGQYNLUbxNVrlNkX4QmWZUhvayfYuMPhWQbaNbFND_v3UDtl8o7Pbu6vTASvdrCJFeFX2Iu76ZiOsJA2csFeUPYxUGk0cISk/s180-c/tatemono_gakkou.png",
+      "vocabulary2": "がまん (gaman - aguentar)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx9VRdxWzOYFrEcFl7ojJIqiLPX6E6XJbwh49CcEbcxOQ_WVS8VkN2m7TmQ7dBQyOjTPJJYSyY2qnlcujuCIgSpEr3BKIclMU5ycW0NPEaKlzhBpsIdN7QhqpLNVqET6CWWl3eQUX3Z8U/s180-c/gaman_okashi.png",
+      "usageExample": "がんばる",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRVw1WvohK8Po0ckup17LIi1-FP5JHlV3qeXGSr9AQqzN0Ucal1TUCyoHA6cIugjGQ404dk8NSbSzZOmeFaWW-T7lGKttHCfC-Jz3eeTyai-FBQVQRpELe0Ggr5HP3b5Ln8gesRkcZz_m/s180-c/foodfighter_woman.png"
+    },
+    {
+      "character": "ぎ",
+      "reading": "gi",
+      "vocabulary1": "ぎんこう (ginkō - bank)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7bvlErdjNb-xkP2I3a1-Vox6-AJ_PQdYiAcxLjk0RxkTwQDV4yzLnpBMZiNO_eRo-Pu2cxFGfJiE4Aa1R1ZfE8VbMsAAuNi5yBLTCkuXHCnZrv5BeJF41B-DWQSEVQj0zqK2KCHOnsuLk/s180-c/atm_woman.png",
+      "vocabulary2": "ぎゅうにゅう (gyuunyuu - leite)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_y-Wh3Z6fk4qX6-yx4bADxgOX-5THYJnabG07pL0p8ssGhQpJBUk5vhD6v3H2fkEYfafxOo4RMCK9GBGUVRASJcL045ZCSN9EAG8vQDwHBBUGZww1cEpsUyHKrY_ZYtuHN0NSxs4hks/s180-c/character_milk_ushi.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぐ",
+      "reading": "gu",
+      "vocabulary1": "ぐたいてき (gutaiteki - específico)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNg4kh3NuTZIv7nsZeN3uubxsy5qZC54wyIkjlc3m7nTW9Czg0-9AZlhtmuFqiVy-EFAkcI5SoAoDxriZqGrJoXnHKH_X_1aCPFviaXKcmMtJsI3juV0GMxEUwrlpMgSXvYfK8DDDV7uVA/s180-c/iryou_karute_carte.png",
+      "vocabulary2": "ぐあい (guai - condição)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCmDqWZk7zDPVYHTAOggSz2AEDvrUv6506Dn8toi90nOaJ-9y00pNF7aMc7HWowOaDXrZ89j-6CxXOdknNFJEIV3G-gALHAFruPFhEVg2iDE5j7rOhEdizRO9XHGnp5mDpJn-p5yWimnM/s180-c/sick_guai_warui_woman.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "げ",
+      "reading": "ge",
+      "vocabulary1": "げんき (genki - saúde)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltfneSv45gFOhqseFawv2kRHuN3ydmle1EZC_6fuC7Iisd-_fiAaoTOCXl4U_7JbsA03uDZiJFwd1Kc9bVI8UvXwlKNoDNLTj5ktxIZDV-yQ8U0kYGmKGk9OtjdQm2WBsJlN6OWp2AJI/s180-c/pose_genki08_obaasan.png",
+      "vocabulary2": "げつようび (getsuyoubi - segunda-feira)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM9V7Flh4ksExAia9Bdkj6Gc_L1hc7aX30NJCKp7GijZOwPSgpDFo2vgi1iapfFu0Jn5Od-NqXgY56swq37Z3khFvQ16OkG4TtTN4LRUjgZPSDaMgvjWTjuuBI394kLTrlv25_GSyhTSY8/s180-c/template_jikanwari_do.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ご",
+      "reading": "go",
+      "vocabulary1": "ごはん (gohan - arroz)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoejb-fdCBe2gEX2vxnBIzObsaYnbtqXE4ZXGYl2wjfsQsZt1tzSYp2wymQkccRZ6ONYeS1kbmOkT-C-fNLp4ulPvAFLb-3DwQVxQHJGr4Bd0ZgGdIDSAAiMRJzMG6Kbfz0jN2WWbVSv-/s180-c/food_gohan.png",
+      "vocabulary2": "ごめん (Gomen - Desculpe)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVVAVtuJM6VETr14RiEw8OdqOrlSOgDJOu2ISzghev2CFiePBYLllORU4WEsbIj7PNvftvL2GOs7eugLPVQ2GtSlaf0WKSSPvUBB2hvXvKAsZiuWMFfVtLE9YycCRX9GV6OEuTkkIHDEA_/s180-c/onegai_gomen_woman.png",
+      "usageExample": "ごちそうさま (Gochisousama - Boa refeição)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJKzD_TP1YmJcixPLtMIBNCtXJBrX6vIr4Bv2WRz1oD8d_adxGgiM0kLH5SX5VLyw7GfSP4LW6ubikRJSx89vv1KdYJBLUfY3D35NdZM2EgM7vjM7edtHzZm8qRibqbGPJmEIUK_dQSQC/s180-c/gochisousama_boy.png"
+    },
+    {
+      "character": "ざ",
+      "reading": "za",
+      "vocabulary1": "ざっし (zasshi - revista)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9dxkj7GnFQQbLe9B5HZKu_2lyLva7mS4HXQZWrPM1AY2RtLiJ4ccuLXChExSNGjV4GgeGc0IV8krYVKCPOOwGPolyaXRaei3hLFNaCm8ayyk-oghWNJ8T6kRoVto5jYBwNE2zhSdFJ8U/s180-c/tana_pamphlet.png",
+      "vocabulary2": "ざつがく (zastugaku - curiosidade)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAcOlN010LAvgWM27fOUJviDRxewg62ImrVpSMV_oImEQYam-mE968PDW-IUn66z2vmqENTCvSxGhUB64Y84077MGEJxMnZ6W5TOiA_rTwm5lgZPAhTDQGGS53TfGaZtsrXZo-1-pX5B4/s180-c/hakase_book_hakobu.png",
+      "usageExample": "ざんねん (Zannen - Que pena)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOC-8yMpIYZSAojL6YelEpF887gIYtAhlrHzDTwt6HwujFMBeBMUZ-5UpZf0kVK6nFZ4dcbF_Yjcrm9b4cE2BlcAGPG51Ttj9iGirVSV0gWXmgKKxRx0sTgR7TSTZn7LXCNdlQN6IDHsWv/s180-c/baseball_draft_kekka.png"
+    },
+    {
+      "character": "じ",
+      "reading": "ji",
+      "vocabulary1": "じかん (jikan - horário)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7n3eo5afHIEY5lJBrgrG2KShtlYRLu0oJRs4v9QAvm5-h_lXAOFrlf1_hhQXC0C1i190rjqE0cRhp_FE9EszZwxg8DFQR5znd8Xw44G09z1w6P8_CD05IiP3odR5nixYgeBnMa3vrMRw/s180-c/character_mezamashidokei.png",
+      "vocabulary2": "じしょ (jisho - dicionário)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedL9sn-U3JJVfMGp0QXBq2KVTPkSzkvII3k4Mu6Q3u6jL7_9P24FKIBFxYWYr4wDYirOfl9Idzo0hkm2HHF_lhS83zLonNRl-ZW1yevx3AeBVGGPWXHNIa935RKL4CjqoQWEKmiffuM4/s800/dictionary.png",
+      "usageExample": "じょうず (jouzu - bem)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzRSk7lY4iBO1TYG6SNfuZZg3ma1dtedxTymzCTgVbmN5Hz-XDfKpKJJl5gSJ5MHDY5SMFB5PMlVIJoBNP0y8gqd_d6CruaIOQdC02ZUaQv7X-5il7OzMWZeHaVz7REzDUjp8LhqQDis/s180-c/baseball_pitcher_overthrow.png"
+    },
+    {
+      "character": "ず",
+      "reading": "zu",
+      "vocabulary1": "ずかん (zukan - livro ilustado)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSMxSvUZIqu74PCvdrYD7K7PWSp0TJol2ZMUAHwbX8lW4LfymjzUmpjVevzfzlT6LQPrtr-fjFXDg61fKgCDdVNwFCnYp7mjFgbvqTR0-PrKeJahiAyAEo85mYP6dtStO2BLNltR6LUla/s180-c/jisyo_jiten_boy.png",
+      "vocabulary2": "ずっと (zutto - sempre)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-E5Kxe3iGqRQHMjn_3zKGHKe7jIY4xfJkUjJwF3boXdoIc1CXT9i_fnVJ6PsyYHYJwUdfP-W8ixNVju_jmGZFL6a5vXf6mKiu5UjgdibQzqf-RVZhic7sVyVqIl2bjmo6yCDxM_2fkU/s180-c/couple_fufu_middle.png",
+      "usageExample": "ずつう (zutsuu - dor de cabeça)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGzKBOWVvhRRkeB50g7w9fjkMoYTd40yBh58HxZLRVht1eMUrvm27MTDSORnA-tzdP_KKNhwkq-WwdTXN8Nhq4B0ZOE2VxJyjFAxpgt4HiqfpawPACdGCPy0-6wd4GWyfBvHCvJI8QS-s0/s180-c/virus_zutsuu2.png"
+    },
+    {
+      "character": "ぜ",
+      "reading": "ze",
+      "vocabulary1": "ぜったい (zettai - com certeza)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikxqM_sspJK4emWv7bx_ZzmV-bzCHjZK4ohVWMveTmqAOtQE64qYTn9mNIlCnLoTN4fWCs5XarjItLvri_iFBC9s9sUKpMHg9ArLJCcyjtwmF-1p8S4X8Y9xKIFT5iBxF8Y2TMe4mGuZ-C/s180-c/machine_yubisashi_kosyou.png",
+      "vocabulary2": "ぜんぶ (zenbu - tudo)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDW96lEr6-NnEo-gX1Cmo4krZ1egoJJXnteD_PKlpvaxJrIVttYkVvwDm89smiggZdASUfH774DN9PeP6X-Xk-jqFEwU_UhQ-7HRdDCekukFVoUSN8rXU2v13oiyNDhtFKaMxVFWdunOE8/s180-c/shopping_kaishime.png",
+      "usageExample": "ぜんぜん (zenzen - nada)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLIzqCEqxSYvNhp55hSY7oF98JJrTxaUCG6PQo9vDPNtM9hyQsfDMlWyvWqxx6lIPl-MeSp-_LEmBILvrTattdFmkbThWzbr4Zb7dYmSgqZr_BdOjmVOIVqD4CW9Kc41i61zUONv9VSKou/s180-c/mukiryoku_woman.png"
+    },
+    {
+      "character": "ぞ",
+      "reading": "zo",
+      "vocabulary1": "ぞう (zou - elefante)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Fx__LsMRTWzvJ1qB95-Xav1jNO7eOO1pVdnMHBzRcPxjLhVDYio14XtSGMpod8a8So9rEld_I0XlxAxOEydZIiVp3v23gYRYSeXPG1U8mwsI2e3_5n1kKqvjhBia42gwrr1Y7No8dTaT/s180-c/animalface_zou.png",
+      "vocabulary2": "ぞくぞく (zokuzoku - animado)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRP7AiivCsxYyZ0Ex5o2Cfywj-VSBqZMv93mwvOhavav3WILyYscevzpfcFOtbWLhyphenhyphen95oz_ltwSnbSXLz6uF1GsqJZvg6sn6L5EhRM3vFPTbtOZ4WIJYfUKHrQC3js2AZ6PgHRXrSM4PZX/s180-c/wakamono_hanareru.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "だ",
+      "reading": "da",
+      "vocabulary1": "だいがく (daigaku - universidade)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIRZFXftSGWJxFEklW-htH3bdolKkvDHhr8pL-2Wcgl4LDAMni86kksFAxrwLiB_oENRE8FTZJJcLF_qjiNbcgYXsgLbXIercqBjGtfW5skDfCfQvV809hu47AJW4CU4wGOkbEzO0OAh5t/s180-c/daigaku_toudai.png",
+      "vocabulary2": "だれ (dare - quem)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqptGlEvBs4KHgrK7NnGFFyVqJMgYW5rGpPs4uguUZB4uwQ3laaGNzW7DtBs27NciKupHUNn9uU4KKdqwVxtcSZZYFq_zQ5XumAQTuUwFoYiXp18RfxZoJHjD2Tnl2HO8HsTDVPjWMcd4/s180-c/kids_hitomishiri.png",
+      "usageExample": "だいじょうぶ (Daizyoubu - Tudo bem)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVhPJkcPBzWggqigw9ox8eKwxiHprIT-qk-GS5SKPL6FhdY6kxh3AbcB7HjEMVYxQ_7kO4DVmlvuO0hkuM-_DMNJh8l3Dbb9upLDeEDMI8Q17wLAtwZbBq6SYGKjmPOsSEYTq8Cbd6uMY/s180-c/jishin_tsuyoi.png"
+    },
+    {
+      "character": "ぢ",
+      "reading": "ji",
+      "vocabulary1": "はなぢ (hanaji - sangue de nariz)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHwWx9Ms1s6KEYYTrlaWhvmTexoAyG9Yqc584zOpmUp34xgjmVHQ7Fdk6AjsJSpGco5YY6DoEwEgsz1b4g2nV_EF3uUsrOS1r0n4eC6xibROp49TT1o8u3hxMRDoJQTEhWZ8jB5RaYD7Pd/s180-c/sick_hanadi.png",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "づ",
+      "reading": "zu",
+      "vocabulary1": "つづく (tsuzuku - continuar)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQJN1tgA3aeCocs48QVOPEnNRWWE6JSbRgPi6_JHPMUXW_WiooFiPfX5Rssaaf6r3BwN8VNStVE_-EvL3yUR0WOoVBQ4uagQ9N8GFbRAUlUq3KAzzU-GGI46xO7tRjGD94ivSsxnKfhjLx/s800/gekijou2_continued.png",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "で",
+      "reading": "de",
+      "vocabulary1": "でんわ (denwa - telefone)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaT79Tm6Kh0UsnvH-g83mTx8887WEVuFtaR7WApt1qSr0ZH2Q57TB-8zOT7Vt02mIidiwaHAlk3_lS0ZLpZoPTg-w9GDkvkXpOgX-mCOneYX0aDaTDDkHZhDl2LWsJPUyDlz1QjxcQHfE/s180-c/phone_kotei_denwa.png",
+      "vocabulary2": "でんしゃ (densha - trem)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9qdbUos1ajOk_MKj_SQ_vbE0Bt6xD0lsN40NSAoJjyAtP71w5nJ-LnghcjaZGltsRK9GGfR1JKopC1Rvvc39F3NKxkz8zgxlth-i9p5OsY-OArpPa2YId6Jnzils1v93HlVdYo-H2z9e4/s180-c/train1_red.png",
+      "usageExample": "できる (dekiru - conseguir)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tmZ7h8Em84M1-pJWOsmjUDM_Eb-B8mlqvUGc1D9_qmU4Cs8VXaCsdx1KbVLXfSLgxUgarDf_-MqJ8ySfd1q9F85yJ1stLO4dRoojzOYVA-mm2eQd9n26LQC-uMSN3BxX09qhQ0YCHPA/s180-c/toy_tsumiki_kids_kyouryoku.png"
+    },
+    {
+      "character": "ど",
+      "reading": "do",
+      "vocabulary1": "どれ (Dore - Qual)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivb_I43Et4q0fbp3ciA7RuwMRGJmZyQyP59LxnSwCXISTstFuePaQCjgfB9lb5Uec47ktgn6115Cv2RoGVoIXBkwtR7UdNDKvO5wZuAP3XWn26OblvKKMDJB7H1SnnQG-4G_42HBchstaV/s180-c/pose_doredore_woman.png",
+      "vocabulary2": "どうも (Douzo - Obrigado)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0JkbcbARXgr2G5FPUI476Ni5r4iKLjgmYkyvbv9pjU05jJqp3VzuPA0DrTMB5pmdWV0tJeWT6Dm6ipOMgVqCFUXqxyMWZapuCgeQrAGxDcLwQ0ol4dKpC4nH8a9N4N_4Zoqf-QiA-IFUo/s180-c/ojigi_woman.png",
+      "usageExample": "どうぞ (Douzo - por favor) ",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrI7OLzkWV12P9nAnvLO0QtgUvtY4p0imLRBcMP2uV4c1bkKDc25RpVvVQep_yzoNSiK2mFPtlbGEfOuSiNqlZH6Um8nlCfctatU_sPI62c_WCyr1aZFAjELQXP9gOcz_hiQDR0xUdrGZP/s180-c/hahanohi_present.png"
+    },
+    {
+      "character": "ば",
+      "reading": "ba",
+      "vocabulary1": "ばしょ (basho - lugar)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj07O38gLijYOjl3ULHiQOWOQMhbHUZZckqAlJ4h3YrER34fBsYQM6cBEh9MHeo4V2JLP0XU4ee5QU4dQXE3PWGtJXS20cTXDZPhwxgcR1HnP-nyDTYm7yJp1O-YnMpNZrU6r98t8d4Ibz1/s180-c/smarttag_otoshimono_circle_key_sagasu.png",
+      "vocabulary2": "ばんごう (bangou - número)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifFYm0qx_YZ98Mskefrbm4WOTTUHpHVsDhxkGexq-hAqt4Ses1Tla64LUJavZ_ddcIUNxCPi7_22CODmuJ0_ZHK4QbrcdWl6SbVV9az9kEQrpABp-H_n1ymlS1RH5CqDiQ6mO4jOCTyn4f/s180-c/hyousyou_suiei_man.png",
+      "usageExample": "ばいばい (Bai-bai Tchau-tchau)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmuzlsnIbQp83aokl9NybjI7j_Fb-q7ep2ERdrA8N7fQn_4RSrMsaccFLIv1VRiM9JJ6nma-Vq-Qxnl8xm36X1ZFzpJLgs0Lcgd4PHWpPKTVYc3erLO7x7LoaAdL5Sr_4blvNSmvnmok5g/s180-c/taiin_miokuri.png"
+    },
+    {
+      "character": "び",
+      "reading": "bi",
+      "vocabulary1": "びじゅつ (bijutsu - arte)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHPKK-oTltpGrudxJAYrY4LCcNywV6arQ5Ump3rinzdwZfJRaAcKgGxzHmqsrzbmnO9XL9K5niSB1K7khg2y7yqQlMp1VKJLKiDy1qPlRrxC1pYmf9D1Mu6YA-OcZKdS3pzt00Fna1RSXv/s180-c/sekkouzou_mars.png",
+      "vocabulary2": "びっくり (bikkuri - surpresa)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimBMXhDtAqW1DaelRKH6ziWd8FnY7mHKl-mEq5oopLZ5mteqxuNTLvyw8K2qA3ZGejm4ojwO7ejaaIQXuUtJH9RJcndw2LWF1KvKwoTk31YwhBeDM7MMmmIwDCEYF2HEOhW2t5654C3qQ/s180-c/hakken_ufo.png",
+      "usageExample": "びっくりした！ (Que susto!)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3eA_h3sNDu5YhtDvLLFm1smw2MPoEniayQlQp7nq_PxZZoGm1-y77_jFhF4pCTHwjoVuqikokFvfqj6xJzcVuV3w-f_d-5NjbijrFY_xqKguw5TqQ9pT2H73OoYawFVi6cXV94MsdbXM/s180-c/odorokasu.png"
+    },
+    {
+      "character": "ぶ",
+      "reading": "bu",
+      "vocabulary1": "ぶた (buta - pig)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1D2TNNmvXOzIz5XsOyqdWE01hA4AHDH4cEdw4AM5hY9qeWfaQPjib5WJ1P9-nx8zBwR2wV9mDRIQ1Qx_U2qO6AjsmD4vKOFdzVhspYsfQ2UrcadRKIFi4JvWU6MxN7Sqc5bwhies-7Hs/s180-c/animal_pig_buta.png",
+      "vocabulary2": "ぶんしょう (bunshō - frase)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIbGthbigHeKhPxPQ-4EBX2hGO8LRKPHZjtDFuGSo-fAM7Z9WUCA2OMaWCTN7CXQXUCLCDKo16YKfIbQWO3tTn7vPoFthi0qSrQqTsSllht5v8xzsTtYxU5HnkPrDiqtukUi2caKmINcdi/s180-c/slump_good_write_woman.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "べ",
+      "reading": "be",
+      "vocabulary1": "べんきょう (benkyō - estudo)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQwTCSqJzaHMKy5KX5RZ0uS5vOMR3Yiu6Hjn8OL0RDxryub031obYt2oySQ8QsgvJu7mOk-341iLPoE0wiOpNJ_SA5-GuZbPwwRCujMGKBY0mibs2QF_gDLPconQ47kfi_AskvLQ0UZf5/s180-c/shimekiri_report_man.png",
+      "vocabulary2": "べつ (betsu - differente)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIZ06MnrfKWHw5I9bCaUY4iU-m85HPBON3MJZ3yTmn52DL0tavrwN_7jVn6IshBUfHATblf5zZIJllnroXDCRHEyJjHsJeRUVO8UrWw-seeo-GU91LDU63wP31ynioioI18FP3BlG4T24/s180-c/medical_kairisei_douitsuseisyougai.png",
+      "usageExample": "べんり (conviniente)",
+      "usageExampleImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTW0BDU2qnvZgoMzLZTOoAAO0W5brMecLs-rxqbxnA7X3H7Q8Z70URPQiG6apBe1RbPpEBsnUDlUEcwhVsSKsDIRKCTFoZ3g7qt62lGCZkIYZTuF8YuHoenkTqNSBsXTtxMZqhYcrQtS4T/s180-c/job_benriya_nandemoya.png"
+    },
+    {
+      "character": "ぼ",
+      "reading": "bo",
+      "vocabulary1": "ぼうし (bōshi - bone)",
+      "vocabularyImage1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUK2omtPCtnqZCSztbpsdOODYynz5ZKCnyVzx50iBTGUmKeLmBf5cLp-jOgV2N87wwqk8_QlwGopzSHF_o2KoSIuAdA-6-8RGIQlRH7oEKLV4uaPwx3XUeComT-fnCMCekBvDRSa8lido/s180-c/boushi_cap_girl.png",
+      "vocabulary2": "ぼく (boku - Eu)",
+      "vocabularyImage2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZXOmYQwj6D4cM5beEMORXxl9wj1b_j_-Y-MjuhpDg2VroOp7iOfEH12rsgO4eJwpHcwL_XGwk6QmdXhyphenhyphencuNy6VWwE1_oXYnIJFWIQ-Q5uphF5GvVd6lyp5hwhxexTFzQu7IQJcl6fxng/s180-c/buranko_boy_smile.png",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぱ",
+      "reading": "pa",
+      "vocabulary1": " ()",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぴ",
+      "reading": "pi",
+      "vocabulary1": " ()",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぷ",
+      "reading": "pu",
+      "vocabulary1": " ()",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぺ",
+      "reading": "pe",
+      "vocabulary1": "ぺらぺら (perapera - fluentemente)",
+      "vocabularyImage1": "",
+      "vocabulary2": "ぺこぺこ (pekopeko - fome)",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    },
+    {
+      "character": "ぽ",
+      "reading": "po",
+      "vocabulary1": " ()",
+      "vocabularyImage1": "",
+      "vocabulary2": " ()",
+      "vocabularyImage2": "",
+      "usageExample": "",
+      "usageExampleImage": ""
+    }
+  ],
+  "katakana": [
+    {
+      "character": "あ",
+      "reading": "a (あ)",
+      "vocabulary1": "あお",
+      "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
+      "vocabulary2": "ありがとう (arigatou)",
+      "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
+      "usageExample": "ありがとうごさいます",
+      "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
+    }
+  ],
+  "kanji": [
+    {
+      "character": "あ",
+      "reading": "a (あ)",
+      "vocabulary1": "あお",
+      "vocabularyImage1": "https://www.vhv.rs/dpng/d/15-151266_blue-circle-png-logo-transparent-png.png",
+      "vocabulary2": "ありがとう (arigatou)",
+      "vocabularyImage2": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w",
+      "usageExample": "ありがとうごさいます",
+      "usageExampleImage": "https://images.squarespace-cdn.com/content/v1/5d3ee66abacfa00001df6854/1595464052052-O647QJZ3B6LX804QFIX6/tokyo-tours-arigato.png?format=2500w"
+    }
+  ]
 }

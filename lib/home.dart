@@ -15,16 +15,12 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  List<Kana> kanas = [];
-
-  Future loadJsonData(String type, (int from, int to) range) async {
+  Future<List<Kana>> loadJsonData(String type, (int from, int to) range) async {
     final json = await rootBundle.loadString('assets/kana.json');
     final data = jsonDecode(json);
     var jsonParse = data[type] as List;
     var kanaList = jsonParse.map((i) => Kana.fromJson(i)).toList();
-    setState(() {
-      kanas = kanaList.getRange(range.$1, range.$2).toList();
-    });
+    return kanaList.getRange(range.$1, range.$2).toList();
   }
 
   @override
@@ -56,75 +52,43 @@ class _HomeState extends State<Home> {
             action: () => showDialog(
               context: context,
               builder: (context) => AlertDialog(
-                title: Text("Selecione o silabario"),
-                constraints: BoxConstraints(maxHeight: 350),
+                title: Text("Selecione o silabário"),
+                constraints: BoxConstraints(maxHeight: 600),
                 content: Column(
                   children: [
-                    FilledButton(
-                      onPressed: () {
-                        loadJsonData('hiragana', (0, 5));
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => DrawingCanvas(kanas: kanas),
-                          ),
-                        );
-                      },
-                      child: Text(
-                        "あ〜お",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 21,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
-                    FilledButton(
-                      onPressed: () {
-                        loadJsonData('hiragana', (5, 10));
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => DrawingCanvas(kanas: kanas),
-                          ),
-                        );
-                      },
-                      child: Text(
-                        "か〜こ",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 21,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
-                    FilledButton(
-                      onPressed: () {
-                        loadJsonData('hiragana', (10, 15));
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => DrawingCanvas(kanas: kanas),
-                          ),
-                        );
-                      },
-                      child: Text(
-                        "さ〜そ",
-                        style: GoogleFonts.kleeOne(
-                          fontSize: 21,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    ),
+                    kanaLoad("あ〜お", (0, 5)),
+                    kanaLoad("か〜こ", (5, 10)),
+                    kanaLoad("さ〜そ", (10, 15)),
+                    kanaLoad("た〜と", (15, 20)),
+                    kanaLoad("な〜の", (20, 25)),
+                    kanaLoad("は〜ほ", (25, 30)),
+                    kanaLoad("ま〜も", (30, 35)),
+                    kanaLoad("や～よ", (35, 38)),
+                    kanaLoad("ら～ろ", (38, 43)),
+                    kanaLoad("わ～ん", (44, 46)),
                   ],
                 ),
               ),
             ),
           ),
-          CustomCard(
-            title: "Katakana",
-            action: () => loadJsonData('hiragana', (0, 0)),
-          ),
-          CustomCard(
-            title: "Kanji",
-            action: () => loadJsonData('hiragana', (0, 0)),
-          ),
         ],
+      ),
+    );
+  }
+
+  Widget kanaLoad(String text, (int, int) range) {
+    return SizedBox(
+      width: double.infinity,
+      child: FilledButton(
+        onPressed: () async {
+          var kanas = await loadJsonData('hiragana', range);
+          Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (context) => DrawingCanvas(kanas: kanas),
+            ),
+          );
+        },
+        child: Text(text, style: GoogleFonts.notoSans(fontSize: 21)),
       ),
     );
   }

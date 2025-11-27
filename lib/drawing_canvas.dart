@@ -88,20 +88,17 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                     defaultCard(
                       "Vocabulario",
                       widget.kanas[currentKana - 1].vocabulary1,
-                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
-                      // widget.kanas[currentKana - 1].vocabularyImage1,
+                      widget.kanas[currentKana - 1].vocabularyImage1,
                     ),
                     defaultCard(
                       "Vocabulario",
                       widget.kanas[currentKana - 1].vocabulary2,
-                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
-                      // widget.kanas[currentKana - 1].vocabularyImage2,
+                      widget.kanas[currentKana - 1].vocabularyImage2,
                     ),
                     defaultCard(
                       "Exemplo de uso",
                       widget.kanas[currentKana - 1].usageExample,
-                      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRfZsghuLTIyRzywbowxR_q3dtXJn33kub2lS7_pDSVeNlHKveWnsHjGOikcQlg6pgZT63i43SgAcJosU2mES_ZKK-f6G9qWvDViXOtBiDRMEDjQJOGghw-ZSUFYXZ1P01l5ZN0gkANI-/s1055/onepiece03_nami.png",
-                      // widget.kanas[currentKana - 1].usageExampleImage,
+                      widget.kanas[currentKana - 1].usageExampleImage,
                     ),
                   ],
                 ),
@@ -117,7 +114,7 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
 Widget defaultCard(String title, String description, String? image) {
   return SizedBox(
     height: image != null ? 190 : 100,
-    width: 340,
+    width: 380,
     child: Card(
       elevation: 0,
       child: Padding(
@@ -147,6 +144,7 @@ Widget cardText(String text, bool isTitle) {
   return Flexible(
     child: Text(
       text,
+      softWrap: true,
       style: GoogleFonts.kleeOne(
         fontSize: isTitle ? 18 : 24,
         fontWeight: FontWeight.bold,
