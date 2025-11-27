@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class CustomCard extends StatelessWidget {
   const CustomCard({super.key, required this.title, required this.action});
@@ -19,6 +18,7 @@ class CustomCard extends StatelessWidget {
             onTap: action,
             child: Card(
               elevation: 0,
+              color: Colors.grey.shade200,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,

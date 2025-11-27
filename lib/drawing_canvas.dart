@@ -1,5 +1,6 @@
 import 'package:benkyou/lesson/kana.dart';
 import 'package:benkyou/lesson/kana_canvas.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:step_progress/step_progress.dart';
@@ -88,9 +89,16 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                           ),
                           Padding(
                             padding: const EdgeInsets.symmetric(vertical: 58),
-                            child: Image.network(
-                              height: 300,
-                              "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpzmykJAW6ByDi9dMM-D73Em32ymN0tGRAA_VqFTkBYbMdaneScANBqloh75LPmr0xwQCpJ2evpHh09b8c-HQ0OqcdUHHy12ubksbrgUsS94cm7WzeV2zgDt2VPmoEInzMyA0GF3I_u5H/s400/plant_ooonibasu_girl.png",
+                            child: CachedNetworkImage(
+                              imageUrl:
+                                  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpzmykJAW6ByDi9dMM-D73Em32ymN0tGRAA_VqFTkBYbMdaneScANBqloh75LPmr0xwQCpJ2evpHh09b8c-HQ0OqcdUHHy12ubksbrgUsS94cm7WzeV2zgDt2VPmoEInzMyA0GF3I_u5H/s400/plant_ooonibasu_girl.png",
+                              scale: 1.2,
+                              placeholder: (context, url) =>
+                                  CircularProgressIndicator(
+                                    color: Color(0xFF68a49c),
+                                  ),
+                              errorWidget: (context, url, error) =>
+                                  Icon(Icons.error),
                             ),
                           ),
                           SizedBox(
@@ -187,7 +195,16 @@ Widget defaultCard(String title, String description, String? image) {
                 child: Row(
                   crossAxisAlignment: CrossAxisAlignment.center,
                   mainAxisAlignment: MainAxisAlignment.center,
-                  children: [Image.network(image, height: 80)],
+                  children: [
+                    CachedNetworkImage(
+                      imageUrl: image,
+                      height: 80,
+                      width: 80,
+                      placeholder: (context, url) =>
+                          CircularProgressIndicator(color: Color(0xFF68a49c)),
+                      errorWidget: (context, url, error) => Icon(Icons.error),
+                    ),
+                  ],
                 ),
               ),
           ],
