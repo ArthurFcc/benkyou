@@ -46,9 +46,11 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
       persistentFooterAlignment: AlignmentDirectional.center,
       persistentFooterButtons: [
         FilledButton.icon(
-          onPressed: () => setState(() {
-            if (currentKana > 1) currentKana -= 1;
-          }),
+          onPressed: () => currentKana == 1
+              ? null
+              : setState(() {
+                  if (currentKana > 1) currentKana -= 1;
+                }),
           label: Text("Voltar"),
           style: ButtonStyle(
             backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
