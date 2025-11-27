@@ -36,7 +36,7 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                 lineThickness: 8,
                 isBreadcrumb: true,
               ),
-              activeForegroundColor: Colors.green,
+              activeForegroundColor: Color(0xFF68a49c),
               defaultForegroundColor: Colors.grey,
             ),
           ),
@@ -50,7 +50,7 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
           }),
           label: Text("Voltar"),
           style: ButtonStyle(
-            backgroundColor: WidgetStatePropertyAll(Colors.blueGrey),
+            backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
           ),
           icon: Icon(Icons.arrow_back),
         ),
@@ -59,10 +59,10 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
           onPressed: () => setState(() {
             if (currentKana < widget.kanas.length) currentKana += 1;
           }),
-          label: Text("Avancar"),
+          label: Text("Avançar"),
           icon: Icon(Icons.arrow_forward),
           style: ButtonStyle(
-            backgroundColor: WidgetStatePropertyAll(Colors.blueGrey),
+            backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
           ),
           iconAlignment: IconAlignment.end,
         ),
@@ -148,7 +148,7 @@ Widget cardText(String text, bool isTitle) {
       style: GoogleFonts.kleeOne(
         fontSize: isTitle ? 18 : 24,
         fontWeight: FontWeight.bold,
-        color: isTitle ? Colors.green.shade800 : Colors.black,
+        color: isTitle ? Color(0xFF68a49c) : Colors.black,
       ),
     ),
   );

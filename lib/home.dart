@@ -88,6 +88,9 @@ class _HomeState extends State<Home> {
             ),
           );
         },
+        style: ButtonStyle(
+          backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
+        ),
         child: Text(text, style: GoogleFonts.notoSans(fontSize: 21)),
       ),
     );
