@@ -16,6 +16,7 @@ class DrawingCanvas extends StatefulWidget {
 
 class _DrawingCanvasState extends State<DrawingCanvas> {
   int currentKana = 1;
+  final GlobalKey<KanaCanvasState> _canvasGlobalKey = GlobalKey();
 
   @override
   Widget build(BuildContext context) {
@@ -43,21 +44,21 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
           ),
         ),
       ),
-      persistentFooterAlignment: AlignmentDirectional.center,
+      persistentFooterAlignment: AlignmentDirectional.centerEnd,
       persistentFooterButtons: [
-        FilledButton.icon(
-          onPressed: () => currentKana == 1
-              ? null
-              : setState(() {
-                  if (currentKana > 1) currentKana -= 1;
-                }),
-          label: Text("Voltar"),
-          style: ButtonStyle(
-            backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
-          ),
-          icon: Icon(Icons.arrow_back),
-        ),
-        SizedBox(width: 150),
+        // FilledButton.icon(
+        //   onPressed: () => currentKana == 1
+        //       ? null
+        //       : setState(() {
+        //           if (currentKana > 1) currentKana -= 1;
+        //         }),
+        //   label: Text("Voltar"),
+        //   style: ButtonStyle(
+        //     backgroundColor: WidgetStatePropertyAll(Color(0xFF68a49c)),
+        //   ),
+        //   icon: Icon(Icons.arrow_back),
+        // ),
+        // SizedBox(width: 150),
         FilledButton.icon(
           onPressed: () => currentKana == widget.kanas.length
               ? showDialog(
@@ -109,6 +110,11 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                               onPressed: () => Navigator.of(
                                 context,
                               ).popUntil((route) => route.isFirst),
+                              style: ButtonStyle(
+                                backgroundColor: WidgetStatePropertyAll(
+                                  Color(0xFF68a49c),
+                                ),
+                              ),
                               child: Text("Concluir"),
                             ),
                           ),
@@ -119,6 +125,7 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
                 )
               : setState(() {
                   if (currentKana < widget.kanas.length) currentKana += 1;
+                  _canvasGlobalKey.currentState?.clear();
                 }),
           label: Text(
             currentKana == widget.kanas.length ? "Concluir" : "Avançar",
@@ -134,10 +141,9 @@ class _DrawingCanvasState extends State<DrawingCanvas> {
         padding: const EdgeInsets.symmetric(horizontal: 12),
         child: Column(
           children: [
-            KanaCanvas(character: widget.kanas[currentKana - 1].character),
             KanaCanvas(
               character: widget.kanas[currentKana - 1].character,
-              isSingleCharacter: false,
+              key: _canvasGlobalKey,
             ),
             Expanded(
               child: SingleChildScrollView(
